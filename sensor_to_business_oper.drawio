@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T09:55:59.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="Q8Tb-XY5MjnZOfyfutvZ" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T10:32:55.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="YL7OJDijyFgYknCQlhTW" version="19.0.0" type="github">
   <diagram id="80JNsqIN1oj9mV-6OZXV" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="rWYEtE2VRpkPc-ZGuE_r-16" value="Mileage = 158 км : 18.05.2022" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="140" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-17" value="Who?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
