@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T03:59:18.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="VfBeI7Xwmr4ltpm1tE2E" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-08T04:02:14.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="AxLagYWhyFglUT5mO05m" version="19.0.0" type="github">
   <diagram name="Наряд-задание. Однотипное оборудование" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           <mxGeometry x="560" y="140" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K8z3YlsDxTpmbKMOuwJM-21" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.marginRect2;rectMarginTop=32;strokeColor=#666666;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="420" width="1030" height="320" as="geometry" />
+          <mxGeometry x="30" y="410" width="1030" height="320" as="geometry" />
         </mxCell>
         <mxCell id="K8z3YlsDxTpmbKMOuwJM-22" value="Оборудование" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" vertex="1" parent="K8z3YlsDxTpmbKMOuwJM-21">
           <mxGeometry width="140" height="25" relative="1" as="geometry">
@@ -58,13 +58,16 @@
         </mxCell>
         <mxCell id="K8z3YlsDxTpmbKMOuwJM-24" value="Документы" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" vertex="1" parent="K8z3YlsDxTpmbKMOuwJM-21">
           <mxGeometry width="120" height="25" relative="1" as="geometry">
-            <mxPoint x="280" as="offset" />
+            <mxPoint x="425" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K8z3YlsDxTpmbKMOuwJM-25" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.topButton;rSize=5;strokeColor=#008cff;fillColor=#008cff;gradientColor=none;resizeWidth=1;movable=0;deletable=1;" vertex="1" parent="K8z3YlsDxTpmbKMOuwJM-21">
           <mxGeometry width="1030" height="7" relative="1" as="geometry">
             <mxPoint y="25" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="K8z3YlsDxTpmbKMOuwJM-26" value="Допуск к работе" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" vertex="1" parent="K8z3YlsDxTpmbKMOuwJM-21">
+          <mxGeometry x="275" width="150" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
