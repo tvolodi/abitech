@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T08:53:30.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="qyyjtVIEEVr3B2w_YBh1" version="19.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-08T09:45:01.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="1tY06TQefWUxiHkv4c7i" version="19.0.2" type="github" pages="2">
   <diagram name="Наряд-задание. Однотипное оборудование" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
           <mxGeometry x="20" y="10" width="1050" height="770" as="geometry" />
         </mxCell>
         <mxCell id="cp3jL8yl-_vk8I8FglQF-1" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="55" width="1030" height="325" as="geometry" />
+          <mxGeometry x="30" y="55" width="1030" height="395" as="geometry" />
         </mxCell>
         <mxCell id="cp3jL8yl-_vk8I8FglQF-2" value="&lt;&lt;Document Header&gt;&gt;" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" parent="cp3jL8yl-_vk8I8FglQF-1" vertex="1">
           <mxGeometry x="5" width="200" height="30" as="geometry" />
@@ -111,13 +111,16 @@
           <mxGeometry x="10" y="235" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UpVgtn0Ap5h94zRZHEQg-7" value="Плановая дата/время начала выполнения" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;labelBackgroundColor=none;" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
-          <mxGeometry x="560" y="235" width="450" height="30" as="geometry" />
+          <mxGeometry x="560" y="285" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UpVgtn0Ap5h94zRZHEQg-8" value="Приоритет" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;labelBackgroundColor=none;" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
           <mxGeometry x="10" y="285" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UpVgtn0Ap5h94zRZHEQg-9" value="Плановая дата/время завершения выполнения" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;labelBackgroundColor=none;" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
-          <mxGeometry x="560" y="285" width="450" height="30" as="geometry" />
+          <mxGeometry x="560" y="335" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UpVgtn0Ap5h94zRZHEQg-10" value="Производитель работ" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;labelBackgroundColor=none;" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
+          <mxGeometry x="560" y="235" width="450" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
