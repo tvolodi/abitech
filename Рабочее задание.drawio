@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T04:03:36.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="Hmcvbv6ZJFaBrwme8ScY" version="19.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-08T04:06:36.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="-CnTJafsS-HXJbDxde-J" version="19.0.0" type="github" pages="2">
   <diagram name="Наряд-задание. Однотипное оборудование" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
           <mxGeometry x="20" y="10" width="1050" height="480" as="geometry" />
         </mxCell>
         <mxCell id="cp3jL8yl-_vk8I8FglQF-1" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="55" width="1030" height="335" as="geometry" />
+          <mxGeometry x="30" y="55" width="1030" height="395" as="geometry" />
         </mxCell>
         <mxCell id="cp3jL8yl-_vk8I8FglQF-2" value="&lt;&lt;Document Header&gt;&gt;" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
           <mxGeometry x="5" width="200" height="30" as="geometry" />
@@ -102,19 +102,22 @@
           <mxGeometry x="10" y="190" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cp3jL8yl-_vk8I8FglQF-8" value="Дата планового обслуживания" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
-          <mxGeometry x="10" y="240" width="450" height="30" as="geometry" />
+          <mxGeometry x="560" y="240" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cp3jL8yl-_vk8I8FglQF-9" value="Приоритет" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
-          <mxGeometry x="10" y="290" width="450" height="30" as="geometry" />
+          <mxGeometry x="10" y="295" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cp3jL8yl-_vk8I8FglQF-10" value="Дата крайнего срока выполнения" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
-          <mxGeometry x="560" y="240" width="450" height="30" as="geometry" />
+          <mxGeometry x="560" y="295" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cp3jL8yl-_vk8I8FglQF-11" value="Исполнитель" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
           <mxGeometry x="560" y="190" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cp3jL8yl-_vk8I8FglQF-12" value="Локация" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
           <mxGeometry x="560" y="140" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cp3jL8yl-_vk8I8FglQF-13" value="Ед. оборудования" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
+          <mxGeometry x="10" y="240" width="450" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
