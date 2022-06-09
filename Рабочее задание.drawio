@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T07:06:20.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="G4ZOByzvQkBWoPgqVghE" version="19.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-09T10:14:34.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="hMMN1zLwGVd7UKPo1eme" version="19.0.2" type="github" pages="3">
   <diagram name="Наряд-задание. Однотипное оборудование" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -366,6 +366,34 @@
         </mxCell>
         <mxCell id="OH_UwLUDFq6uR3hJUdXP-83" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;labelBackgroundColor=none;snapToPoint=1;" vertex="1" parent="OH_UwLUDFq6uR3hJUdXP-80">
           <mxGeometry x="412.8034990654205" y="74" width="13.861682242990652" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="OH_UwLUDFq6uR3hJUdXP-84" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.marginRect2;rectMarginTop=32;strokeColor=#666666;gradientColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="10" y="1630" width="1030" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="OH_UwLUDFq6uR3hJUdXP-85" value="Задачи" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" vertex="1" parent="OH_UwLUDFq6uR3hJUdXP-84">
+          <mxGeometry width="130" height="25" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OH_UwLUDFq6uR3hJUdXP-86" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.topButton;rSize=5;strokeColor=#008cff;fillColor=#008cff;gradientColor=none;resizeWidth=1;movable=0;deletable=1;" vertex="1" parent="OH_UwLUDFq6uR3hJUdXP-84">
+          <mxGeometry width="991.4953271028037" height="7" relative="1" as="geometry">
+            <mxPoint y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OH_UwLUDFq6uR3hJUdXP-87" value="Бригада" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" vertex="1" parent="OH_UwLUDFq6uR3hJUdXP-84">
+          <mxGeometry x="125.14018691588785" width="144.39252336448598" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="OH_UwLUDFq6uR3hJUdXP-88" value="Оборудование" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" vertex="1" parent="OH_UwLUDFq6uR3hJUdXP-84">
+          <mxGeometry x="413.9252336448598" width="144.39252336448598" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="OH_UwLUDFq6uR3hJUdXP-89" value="Материалы" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#ffffff;strokeColor=#008cff;fillColor=#008cff;" vertex="1" parent="OH_UwLUDFq6uR3hJUdXP-84">
+          <mxGeometry x="269.5327102803738" width="144.39252336448598" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="OH_UwLUDFq6uR3hJUdXP-90" value="" style="group" vertex="1" connectable="0" parent="OH_UwLUDFq6uR3hJUdXP-84">
+          <mxGeometry x="10" y="36" width="480" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="OH_UwLUDFq6uR3hJUdXP-91" value="&lt;table cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; border=&quot;1&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;№ п/п&lt;/th&gt;&lt;th&gt;Номенклатура&lt;/th&gt;&lt;td&gt;&lt;b&gt;Ед.измерения&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Кол.норма&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Кол.получено&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1525-Ветошь&lt;/td&gt;&lt;td&gt;м2&lt;/td&gt;&lt;td&gt;0,5&lt;/td&gt;&lt;td&gt;0,5&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;2325-Спирт технический&lt;/td&gt;&lt;td&gt;л&lt;/td&gt;&lt;td&gt;0,050&lt;/td&gt;&lt;td&gt;0,050&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt; " style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#000000;strokeColor=default;fillColor=#FFFFFF;gradientColor=none;gradientDirection=north;" vertex="1" parent="OH_UwLUDFq6uR3hJUdXP-90">
+          <mxGeometry width="479.99999999999994" height="94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
