@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T03:54:36.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="FX0Z1FpTP7P_utMQZQx3" version="19.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-09T04:35:25.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="jaZRnvmkYN_CJcpuSPU2" version="19.0.2" type="github" pages="2">
   <diagram name="Наряд-задание. Однотипное оборудование" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
           <mxGeometry x="20" y="10" width="1050" height="840" as="geometry" />
         </mxCell>
         <mxCell id="cp3jL8yl-_vk8I8FglQF-1" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="55" width="1030" height="395" as="geometry" />
+          <mxGeometry x="30" y="114" width="1030" height="395" as="geometry" />
         </mxCell>
         <mxCell id="cp3jL8yl-_vk8I8FglQF-2" value="&lt;&lt;Document Header&gt;&gt;" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" parent="cp3jL8yl-_vk8I8FglQF-1" vertex="1">
           <mxGeometry x="5" width="200" height="30" as="geometry" />
@@ -126,7 +126,7 @@
           <mxGeometry x="10" y="335" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BmEyjsdxQJFNQSrM-MgH-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.marginRect2;rectMarginTop=32;strokeColor=#666666;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="460" width="1030" height="320" as="geometry" />
+          <mxGeometry x="30" y="519" width="1030" height="320" as="geometry" />
         </mxCell>
         <mxCell id="BmEyjsdxQJFNQSrM-MgH-3" value="Задачи" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#ffffff;strokeColor=#008cff;fillColor=#008cff;" vertex="1" parent="BmEyjsdxQJFNQSrM-MgH-1">
           <mxGeometry width="130" height="25" relative="1" as="geometry">
@@ -147,8 +147,20 @@
         <mxCell id="BmEyjsdxQJFNQSrM-MgH-9" value="&lt;table style=&quot;font-size: 1em; width: 245px; height: 80px;&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; border=&quot;1&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;&lt;font&gt;№ п/п&lt;/font&gt;&lt;/th&gt;&lt;th&gt;&lt;font&gt;Описание&lt;/font&gt;&lt;/th&gt;&lt;td&gt;&lt;font&gt;&lt;b&gt;Норма времени&lt;/b&gt;&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font&gt;&lt;b&gt;Время факт&lt;/b&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font&gt;row 1, cell 1&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font&gt;row 1, cell 2&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font&gt;row 2, cell 1&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font&gt;row 2, cell 2&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt; " style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="BmEyjsdxQJFNQSrM-MgH-1">
           <mxGeometry x="10" y="40" width="475" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="BmEyjsdxQJFNQSrM-MgH-7" value="Материалы" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="460" width="150" height="25" as="geometry" />
+        <mxCell id="BmEyjsdxQJFNQSrM-MgH-7" value="Материалы" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" vertex="1" parent="BmEyjsdxQJFNQSrM-MgH-1">
+          <mxGeometry x="280" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="9Ujg_5v4xjWhknocqZq0-4" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rrect;rSize=10;fillColor=#ffffff;strokeColor=#666666;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Ujg_5v4xjWhknocqZq0-10" value="Новый" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Ujg_5v4xjWhknocqZq0-11" value="В срок" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#000000;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;whiteSpace=wrap;labelBackgroundColor=#33FF33;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="900" y="40" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Ujg_5v4xjWhknocqZq0-13" value="Не начата" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#000000;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;whiteSpace=wrap;labelBackgroundColor=#33FF33;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="740" y="40" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
