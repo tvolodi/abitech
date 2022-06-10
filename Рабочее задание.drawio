@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T11:34:17.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="sz7kz0aBM1WRaJZ0JJDt" version="19.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-10T11:36:56.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="qt-Ls2J-vlsI6hDWHv6o" version="19.0.2" type="github" pages="3">
   <diagram name="Наряд-задание. Однотипное оборудование" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
         <mxCell id="cp3jL8yl-_vk8I8FglQF-2" value="&lt;&lt;Document Header&gt;&gt;" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" parent="cp3jL8yl-_vk8I8FglQF-1" vertex="1">
           <mxGeometry x="5" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cp3jL8yl-_vk8I8FglQF-3" value="Ала-0001" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="cp3jL8yl-_vk8I8FglQF-1" vertex="1">
+        <mxCell id="cp3jL8yl-_vk8I8FglQF-3" value="Ала-0501" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="cp3jL8yl-_vk8I8FglQF-1" vertex="1">
           <mxGeometry x="10" y="46" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cp3jL8yl-_vk8I8FglQF-5" value="Обслуживание шкафа ШЭ-2032" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="cp3jL8yl-_vk8I8FglQF-1" vertex="1">
@@ -169,6 +169,12 @@
         </mxCell>
         <mxCell id="wNE8JfvneDhUe-leYc0S-3" value="Плановая длительность работ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;fontSize=10;" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
           <mxGeometry x="560" y="375" width="220" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="wNE8JfvneDhUe-leYc0S-35" value="Ала-0052" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;labelBackgroundColor=none;" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
+          <mxGeometry x="10" y="390" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wNE8JfvneDhUe-leYc0S-36" value="Родительское наряд-задание" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;fontSize=10;" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
+          <mxGeometry x="10" y="375" width="150" height="15" as="geometry" />
         </mxCell>
         <mxCell id="BmEyjsdxQJFNQSrM-MgH-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.marginRect2;rectMarginTop=32;strokeColor=#666666;gradientColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="29" y="519" width="1030" height="330" as="geometry" />
