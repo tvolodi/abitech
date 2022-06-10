@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T08:09:04.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="BQW3UblB9vlnnkXFw40q" version="19.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-10T11:34:17.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="sz7kz0aBM1WRaJZ0JJDt" version="19.0.2" type="github" pages="3">
   <diagram name="Наряд-задание. Однотипное оборудование" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -73,15 +73,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wst9IE9qMWAmo7dUEw3-" name="НЗ. Простое">
-    <mxGraphModel dx="1673" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yvWCJETFRyyGVutGe7UO-1" value="Наряд задание &amp;lt;&amp;lt;simple&amp;gt;&amp;gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="20" y="10" width="1050" height="840" as="geometry" />
+          <mxGeometry x="20" y="-40" width="1050" height="890" as="geometry" />
         </mxCell>
         <mxCell id="cp3jL8yl-_vk8I8FglQF-1" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="114" width="1030" height="395" as="geometry" />
+          <mxGeometry x="30" y="40" width="1030" height="460" as="geometry" />
         </mxCell>
         <mxCell id="cp3jL8yl-_vk8I8FglQF-2" value="&lt;&lt;Document Header&gt;&gt;" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" parent="cp3jL8yl-_vk8I8FglQF-1" vertex="1">
           <mxGeometry x="5" width="200" height="30" as="geometry" />
@@ -116,7 +116,7 @@
         <mxCell id="UpVgtn0Ap5h94zRZHEQg-8" value="Нормальный" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;labelBackgroundColor=none;" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
           <mxGeometry x="10" y="285" width="450" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UpVgtn0Ap5h94zRZHEQg-9" value="Плановая дата/время завершения выполнения" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;labelBackgroundColor=none;" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
+        <mxCell id="UpVgtn0Ap5h94zRZHEQg-9" value="10.06.2022 16:00" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;labelBackgroundColor=none;" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
           <mxGeometry x="560" y="335" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UpVgtn0Ap5h94zRZHEQg-10" value="Медведев С." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;labelBackgroundColor=none;" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
@@ -163,6 +163,12 @@
         </mxCell>
         <mxCell id="OH_UwLUDFq6uR3hJUdXP-171" value="Плановая дата/время завершения работ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;fontSize=10;" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
           <mxGeometry x="560" y="320" width="220" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="wNE8JfvneDhUe-leYc0S-2" value="45 мин" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;labelBackgroundColor=none;" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
+          <mxGeometry x="560" y="390" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wNE8JfvneDhUe-leYc0S-3" value="Плановая длительность работ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;fontSize=10;" vertex="1" parent="cp3jL8yl-_vk8I8FglQF-1">
+          <mxGeometry x="560" y="375" width="220" height="15" as="geometry" />
         </mxCell>
         <mxCell id="BmEyjsdxQJFNQSrM-MgH-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.marginRect2;rectMarginTop=32;strokeColor=#666666;gradientColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="29" y="519" width="1030" height="330" as="geometry" />
@@ -261,20 +267,14 @@
         <mxCell id="_XUatzvdbWlpiVQRrfv--1" value="Документы" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" vertex="1" parent="BmEyjsdxQJFNQSrM-MgH-1">
           <mxGeometry x="558.3152336448597" width="144.39252336448598" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="9Ujg_5v4xjWhknocqZq0-4" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rrect;rSize=10;fillColor=#ffffff;strokeColor=#666666;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="30" y="40" width="500" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9Ujg_5v4xjWhknocqZq0-10" value="Новый" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350" y="40" width="180" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="9Ujg_5v4xjWhknocqZq0-11" value="В срок" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#000000;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;whiteSpace=wrap;labelBackgroundColor=#33FF33;fillColor=#33FF33;" vertex="1" parent="1">
-          <mxGeometry x="900" y="40" width="150" height="30" as="geometry" />
+          <mxGeometry x="909" y="-10" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Ujg_5v4xjWhknocqZq0-13" value="Не начата" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#000000;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;whiteSpace=wrap;labelBackgroundColor=#33FF33;fillColor=#33FF33;" vertex="1" parent="1">
-          <mxGeometry x="740" y="40" width="150" height="30" as="geometry" />
+          <mxGeometry x="740" y="-10" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Ujg_5v4xjWhknocqZq0-14" value="Статус документа" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="506" y="-37" width="140" height="30" as="geometry" />
+          <mxGeometry x="506" y="-90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Ujg_5v4xjWhknocqZq0-15" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;fontColor=#000000;" edge="1" target="9Ujg_5v4xjWhknocqZq0-14" parent="1" source="9Ujg_5v4xjWhknocqZq0-10">
           <mxGeometry relative="1" as="geometry">
@@ -443,6 +443,15 @@
         <mxCell id="HaWJkJ82asgAGgSBp-Sl-1" value="WO_SIMPLE" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="29" y="-80" width="171" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wNE8JfvneDhUe-leYc0S-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="-10" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Ujg_5v4xjWhknocqZq0-4" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.rrect;rSize=10;fillColor=#ffffff;strokeColor=#666666;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="wNE8JfvneDhUe-leYc0S-1">
+          <mxGeometry width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Ujg_5v4xjWhknocqZq0-10" value="Новый" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;labelBackgroundColor=none;" vertex="1" parent="wNE8JfvneDhUe-leYc0S-1">
+          <mxGeometry x="320" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -458,13 +467,10 @@
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FJo5DKsqKXTdrOZwX9rQ-1" value="Наряд-задание" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=none;fontColor=#000000;fillColor=#FFFFFF;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
-          <mxGeometry x="400" y="40" width="160" height="120" as="geometry" />
+          <mxGeometry x="370" y="40" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FJo5DKsqKXTdrOZwX9rQ-2" value="+&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="FJo5DKsqKXTdrOZwX9rQ-1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="FJo5DKsqKXTdrOZwX9rQ-3" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="FJo5DKsqKXTdrOZwX9rQ-1">
-          <mxGeometry y="120" width="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
