@@ -1,57 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T10:32:55.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="YL7OJDijyFgYknCQlhTW" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T11:25:06.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="GeyZbLyW7RO-KaQoko00" version="19.0.2" type="github" pages="2">
   <diagram id="80JNsqIN1oj9mV-6OZXV" name="Page-1">
-    <mxGraphModel dx="813" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-2" value="Sensor data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-2" value="Sensor data" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-3" value="Location : time&lt;br&gt;Станция 1 : 15:02:14" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-3" value="Location : time&lt;br&gt;Станция 1 : 15:02:14" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-4" value="Weight : time&lt;br&gt;55т : 15:15:03" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-4" value="Weight : time&lt;br&gt;55т : 15:15:03" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-5" value="Exploited hours : time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-5" value="Exploited hours : time" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-6" value="Mileage : time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-6" value="Mileage : time" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-7" value="Temperature : time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-7" value="Temperature : time" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-8" value="Equipment Sensor Data Log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-8" value="Equipment Sensor Data Log" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-10" value="Станция 1 : 15:02:14&lt;br&gt;Станция 8 : 15:14:18&lt;br&gt;Станция 5 : 15:46:52" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-10" value="Станция 1 : 15:02:14&lt;br&gt;Станция 8 : 15:14:18&lt;br&gt;Станция 5 : 15:46:52" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="140" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-11" value="Rules" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-11" value="Rules" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="40" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-12" value="тип станции == &quot;разгрузка&quot;&lt;br&gt;&amp;amp;&amp;amp;&lt;br&gt;(GrossWeight - NetWeight) &amp;gt; 0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-12" value="тип станции == &quot;разгрузка&quot;&lt;br&gt;&amp;amp;&amp;amp;&lt;br&gt;(GrossWeight - NetWeight) &amp;gt; 0" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="140" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-13" value="Business Operations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-13" value="Business Operations" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="40" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-14" value="Inventory document on coal on weight = (GrossWeight - NetWeight)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-14" value="Inventory document on coal on weight = (GrossWeight - NetWeight)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="140" width="230" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-15" value="Equipment Shift Data Log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-15" value="Equipment Shift Data Log" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="40" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-16" value="Mileage = 158 км : 18.05.2022" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-16" value="Mileage = 158 км : 18.05.2022" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="140" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-17" value="Who?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rWYEtE2VRpkPc-ZGuE_r-17" value="Who?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Om5zHNZ3S2E0QpQS4rUD" name="Page-2">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
