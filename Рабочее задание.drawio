@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T11:36:56.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="qt-Ls2J-vlsI6hDWHv6o" version="19.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-13T09:19:28.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="9iGbHWDMBgC6dGM-hqxu" version="19.0.2" type="github" pages="3">
   <diagram name="Наряд-задание. Однотипное оборудование" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wst9IE9qMWAmo7dUEw3-" name="НЗ. Простое">
-    <mxGraphModel dx="1185" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -457,6 +457,9 @@
         </mxCell>
         <mxCell id="9Ujg_5v4xjWhknocqZq0-10" value="Новый" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;labelBackgroundColor=none;" vertex="1" parent="wNE8JfvneDhUe-leYc0S-1">
           <mxGeometry x="320" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wNE8JfvneDhUe-leYc0S-37" value="Требования по ТБ" style="strokeColor=#36393d;fillColor=#ffff88;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="729.9952336448598" y="519" width="144.39252336448598" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
