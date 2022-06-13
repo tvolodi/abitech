@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T03:26:26.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="fe_bBR6BrYkrVxi3d3OY" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T03:57:28.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="mL7GmwfFbE3ZT1jZ0Z8y" version="19.0.2" type="github">
   <diagram id="nu44lOmmYdovMivt4aMq" name="Page-1">
-    <mxGraphModel dx="2467" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2707" dy="1757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -541,6 +541,12 @@
         <mxCell id="1585sADhkds7L9PGY0fH-165" value="Плановые работы" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;sketch=0;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="860" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="myCQ_AE_SCM9vGws5eOE-22" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1585sADhkds7L9PGY0fH-166" target="myCQ_AE_SCM9vGws5eOE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="myCQ_AE_SCM9vGws5eOE-24" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1585sADhkds7L9PGY0fH-166" target="myCQ_AE_SCM9vGws5eOE-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1585sADhkds7L9PGY0fH-166" value="Показания" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;sketch=0;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="1720" y="80" width="120" height="60" as="geometry" />
         </mxCell>
@@ -588,6 +594,12 @@
         </mxCell>
         <mxCell id="myCQ_AE_SCM9vGws5eOE-19" value="Модуль проверки состояния работоспособности контроллеров и датчиков" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-500" y="380" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="myCQ_AE_SCM9vGws5eOE-21" value="Типы показаний" style="whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;rounded=1;sketch=0;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="myCQ_AE_SCM9vGws5eOE-23" value="Экранная форма для ввода показаний" style="whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;rounded=1;sketch=0;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
