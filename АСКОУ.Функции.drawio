@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T03:19:58.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="kUfSxbNP1dLo7UcWnDyy" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T03:26:26.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="fe_bBR6BrYkrVxi3d3OY" version="19.0.2" type="github">
   <diagram id="nu44lOmmYdovMivt4aMq" name="Page-1">
     <mxGraphModel dx="2467" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -547,14 +547,23 @@
         <mxCell id="1585sADhkds7L9PGY0fH-167" value="Чек - листы" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;sketch=0;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="1880" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="myCQ_AE_SCM9vGws5eOE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="myCQ_AE_SCM9vGws5eOE-1" target="myCQ_AE_SCM9vGws5eOE-3">
+        <mxCell id="myCQ_AE_SCM9vGws5eOE-12" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="myCQ_AE_SCM9vGws5eOE-1" target="myCQ_AE_SCM9vGws5eOE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="myCQ_AE_SCM9vGws5eOE-14" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="myCQ_AE_SCM9vGws5eOE-1" target="myCQ_AE_SCM9vGws5eOE-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="myCQ_AE_SCM9vGws5eOE-16" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="myCQ_AE_SCM9vGws5eOE-1" target="myCQ_AE_SCM9vGws5eOE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="myCQ_AE_SCM9vGws5eOE-18" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="myCQ_AE_SCM9vGws5eOE-1" target="myCQ_AE_SCM9vGws5eOE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="myCQ_AE_SCM9vGws5eOE-20" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="myCQ_AE_SCM9vGws5eOE-1" target="myCQ_AE_SCM9vGws5eOE-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="myCQ_AE_SCM9vGws5eOE-1" value="Сервер работы с контроллерами" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-760" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="myCQ_AE_SCM9vGws5eOE-3" value="&lt;ol&gt;&lt;li&gt;Ведение журналов работы&lt;/li&gt;&lt;li&gt;Опрос контроллеров&lt;/li&gt;&lt;li&gt;Формирование событий для бизнес-модулей на основе правил&lt;/li&gt;&lt;li&gt;Контроль состояния контроллеров&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;rounded=1;sketch=0;align=left;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="-815" y="380" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="myCQ_AE_SCM9vGws5eOE-5" value="Учет пройденного расстояния" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;rounded=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-1000" y="785" width="120" height="60" as="geometry" />
@@ -564,6 +573,21 @@
         </mxCell>
         <mxCell id="myCQ_AE_SCM9vGws5eOE-9" value="Ведение архивов журналов работы датчиков и контроллеров" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-1000" y="615" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="myCQ_AE_SCM9vGws5eOE-11" value="Журнал работы контроллеров/датчиков" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="myCQ_AE_SCM9vGws5eOE-13" value="Планировщик опроса датчиков" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="myCQ_AE_SCM9vGws5eOE-15" value="Библиотека модулей с API для контроллеров" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="myCQ_AE_SCM9vGws5eOE-17" value="Правила обработки сигналов датчиков" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="myCQ_AE_SCM9vGws5eOE-19" value="Модуль проверки состояния работоспособности контроллеров и датчиков" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rounded=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="380" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
