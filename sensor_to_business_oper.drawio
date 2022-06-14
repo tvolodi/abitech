@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T03:12:10.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="3TgCBxQvmThdWQm7ZA_l" version="19.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-14T04:55:46.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="mX4pENcEVdry7mavAI8v" version="19.0.2" type="github" pages="2">
   <diagram id="80JNsqIN1oj9mV-6OZXV" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,6 +152,15 @@
         </mxCell>
         <mxCell id="Z_x_-_7z4lIZp34NYtSl-37" value="" style="ellipse;fillColor=#000000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="1040" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_x_-_7z4lIZp34NYtSl-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_x_-_7z4lIZp34NYtSl-40" target="Z_x_-_7z4lIZp34NYtSl-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_x_-_7z4lIZp34NYtSl-40" value="" style="ellipse;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="530" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_x_-_7z4lIZp34NYtSl-41" value="На весовой ввели данные по весу вагона на экранной форме" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="115" y="625" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
