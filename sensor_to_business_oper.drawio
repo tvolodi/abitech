@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T05:45:39.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="nH0asuELSUtsEwT48QzN" version="19.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-14T06:04:20.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="gr6KseEJGpDe3Gycfl6k" version="19.0.2" type="github" pages="2">
   <diagram id="80JNsqIN1oj9mV-6OZXV" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Z_x_-_7z4lIZp34NYtSl-1" value="Трекинг вагонов / &#xa;Журнал локаций вагонов" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="60" y="60" width="190" height="120" as="geometry" />
+          <mxGeometry x="70" y="60" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Z_x_-_7z4lIZp34NYtSl-2" value="+CarriageId&#xa;+LocationId&#xa;+Time" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Z_x_-_7z4lIZp34NYtSl-1">
           <mxGeometry y="40" width="190" height="80" as="geometry" />
@@ -78,11 +78,11 @@
         <mxCell id="Z_x_-_7z4lIZp34NYtSl-8" value="+Документ загрузки/разгрузки&#xa;+Вагон&#xa;+Вес" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Z_x_-_7z4lIZp34NYtSl-7">
           <mxGeometry y="30" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Z_x_-_7z4lIZp34NYtSl-9" value="Оборудование / ОС Показатели&#xa;EquipmentReadings" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+        <mxCell id="Z_x_-_7z4lIZp34NYtSl-9" value="Оборудование / ОС Показатели&#xa;EquipmentReadings" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="80" y="260" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Z_x_-_7z4lIZp34NYtSl-10" value="+Единица оборудования&#xa;+Тип показателя: &quot;Пробег&quot;&#xa;+Величина показателя - пробега&#xa;+Дата:время" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Z_x_-_7z4lIZp34NYtSl-9">
-          <mxGeometry y="30" width="210" height="90" as="geometry" />
+          <mxGeometry y="50" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Z_x_-_7z4lIZp34NYtSl-13" value="Журнал проведенного &#xa;обслуживания" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="540" y="260" width="200" height="120" as="geometry" />
@@ -94,7 +94,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z_x_-_7z4lIZp34NYtSl-17" value="Регистрация в &lt;br&gt;Журнале локаций вагонов" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="505" y="670" width="120" height="50" as="geometry" />
+          <mxGeometry x="660" y="700" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Z_x_-_7z4lIZp34NYtSl-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_x_-_7z4lIZp34NYtSl-18" target="Z_x_-_7z4lIZp34NYtSl-19">
           <mxGeometry relative="1" as="geometry" />
@@ -103,6 +103,9 @@
           <mxGeometry x="550" y="530" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z_x_-_7z4lIZp34NYtSl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z_x_-_7z4lIZp34NYtSl-19" target="Z_x_-_7z4lIZp34NYtSl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQdvw8Mw5SdcorRhIYN5-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_x_-_7z4lIZp34NYtSl-19" target="ZQdvw8Mw5SdcorRhIYN5-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z_x_-_7z4lIZp34NYtSl-19" value="Определение вагона&lt;br&gt;&amp;nbsp;(метка - ОС - вагон)" style="whiteSpace=wrap;html=1;align=center;fillColor=#ffffff;strokeColor=#000000;spacingTop=0;spacing=0;" vertex="1" parent="1">
@@ -164,6 +167,15 @@
         </mxCell>
         <mxCell id="Z_x_-_7z4lIZp34NYtSl-43" value="Данные сохранили в Журнале учета веса вагонов" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="115" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQdvw8Mw5SdcorRhIYN5-1" value="Журнал учета трекинга&#xa;Inv.TrackingRegistries" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-140" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQdvw8Mw5SdcorRhIYN5-2" value="+EntityGuidId - Asset Guid&#xa;+EntityType - Asset&#xa;+LocationId&#xa;+RegistrationDateTime" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="ZQdvw8Mw5SdcorRhIYN5-1">
+          <mxGeometry y="40" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQdvw8Mw5SdcorRhIYN5-3" value="Регистрация в журнеле трекинга объектов" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;spacingTop=0;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
