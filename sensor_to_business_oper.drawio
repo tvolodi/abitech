@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T11:45:47.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="PDwvQz4kwvoOUnftorha" version="19.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-14T11:51:21.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="NZ8SDDqIrX7Kdptou7UZ" version="19.0.2" type="github" pages="2">
   <diagram id="80JNsqIN1oj9mV-6OZXV" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -285,8 +285,36 @@
         <mxCell id="ZQdvw8Mw5SdcorRhIYN5-47" value="Найти предыдущее значение локации по Журналу трекинга&lt;br&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;spacingTop=0;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="1435" y="840.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZQdvw8Mw5SdcorRhIYN5-49" value="&lt;span style=&quot;&quot;&gt;Если значение предыдущая локация соответствует локации начального узла текущей дистанции&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;spacingTop=0;spacing=0;" vertex="1" parent="1">
+        <mxCell id="ZQdvw8Mw5SdcorRhIYN5-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="ZQdvw8Mw5SdcorRhIYN5-49" target="ZQdvw8Mw5SdcorRhIYN5-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQdvw8Mw5SdcorRhIYN5-49" value="&lt;span style=&quot;&quot;&gt;Значение предыдущей локации соответствует локации начального узла текущей дистанции&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;spacingTop=0;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="1372.5" y="925.5" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQdvw8Mw5SdcorRhIYN5-57" value="Нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.523;entryY=-0.012;entryDx=0;entryDy=0;fontSize=12;entryPerimeter=0;" edge="1" parent="1" source="ZQdvw8Mw5SdcorRhIYN5-51" target="ZQdvw8Mw5SdcorRhIYN5-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQdvw8Mw5SdcorRhIYN5-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="ZQdvw8Mw5SdcorRhIYN5-51" target="ZQdvw8Mw5SdcorRhIYN5-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQdvw8Mw5SdcorRhIYN5-59" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="ZQdvw8Mw5SdcorRhIYN5-58">
+          <mxGeometry x="-0.5694" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZQdvw8Mw5SdcorRhIYN5-51" value="" style="rhombus;fontSize=12;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1016" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQdvw8Mw5SdcorRhIYN5-53" value="&lt;span style=&quot;&quot;&gt;Значение пробега равно длине текущей дистанции&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;spacingTop=0;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1100" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQdvw8Mw5SdcorRhIYN5-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZQdvw8Mw5SdcorRhIYN5-54" target="ZQdvw8Mw5SdcorRhIYN5-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1342.0869565217395" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZQdvw8Mw5SdcorRhIYN5-54" value="Взять предыдущую дистанцию: конечный узел = начальному узлу текущей дистанции" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;spacingTop=0;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1100" width="245" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
