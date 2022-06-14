@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T05:06:19.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="6vVtOJ-wczEQrwxMBU_d" version="19.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-14T05:45:39.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="nH0asuELSUtsEwT48QzN" version="19.0.2" type="github" pages="2">
   <diagram id="80JNsqIN1oj9mV-6OZXV" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,10 +78,10 @@
         <mxCell id="Z_x_-_7z4lIZp34NYtSl-8" value="+Документ загрузки/разгрузки&#xa;+Вагон&#xa;+Вес" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Z_x_-_7z4lIZp34NYtSl-7">
           <mxGeometry y="30" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Z_x_-_7z4lIZp34NYtSl-9" value="Оборудование / ОС Показатели" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+        <mxCell id="Z_x_-_7z4lIZp34NYtSl-9" value="Оборудование / ОС Показатели&#xa;EquipmentReadings" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="80" y="260" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Z_x_-_7z4lIZp34NYtSl-10" value="+AssetId&#xa;+Тип показателя: &quot;Пробег&quot;&#xa;+Величина показателя - пробега&#xa;+Дата:время" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Z_x_-_7z4lIZp34NYtSl-9">
+        <mxCell id="Z_x_-_7z4lIZp34NYtSl-10" value="+Единица оборудования&#xa;+Тип показателя: &quot;Пробег&quot;&#xa;+Величина показателя - пробега&#xa;+Дата:время" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Z_x_-_7z4lIZp34NYtSl-9">
           <mxGeometry y="30" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Z_x_-_7z4lIZp34NYtSl-13" value="Журнал проведенного &#xa;обслуживания" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
