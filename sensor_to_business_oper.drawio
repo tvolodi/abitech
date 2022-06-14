@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T11:52:54.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="jr-KXOzrGMQyQ9NKbkU-" version="19.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-14T11:53:27.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="OBxqDYkVqZkj4W0hL-0K" version="19.0.2" type="github" pages="2">
   <diagram id="80JNsqIN1oj9mV-6OZXV" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Om5zHNZ3S2E0QpQS4rUD" name="Пробеги">
-    <mxGraphModel dx="2064" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3015" dy="2391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,8 +87,14 @@
         <mxCell id="Z_x_-_7z4lIZp34NYtSl-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_x_-_7z4lIZp34NYtSl-17" target="Z_x_-_7z4lIZp34NYtSl-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZQdvw8Mw5SdcorRhIYN5-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_x_-_7z4lIZp34NYtSl-17" target="ZQdvw8Mw5SdcorRhIYN5-40">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZQdvw8Mw5SdcorRhIYN5-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z_x_-_7z4lIZp34NYtSl-17" target="ZQdvw8Mw5SdcorRhIYN5-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705" y="695" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1210" y="765" />
+              <mxPoint x="1210" y="515" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Z_x_-_7z4lIZp34NYtSl-17" value="Определение величины пробега" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="505" y="740" width="120" height="50" as="geometry" />
@@ -257,9 +263,6 @@
         </mxCell>
         <mxCell id="ZQdvw8Mw5SdcorRhIYN5-38" value="1. В журнале показателей оборудования найти последнее предыдущее значение по этому вагону / локомотиву.&lt;br&gt;2. Добавить текущее значение пробега.&lt;br&gt;3. Заменить предыдущее" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;align=left;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="870" y="790.5" width="210" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="ZQdvw8Mw5SdcorRhIYN5-40" value="1. Выбрать дистанции по маршруту.&lt;br&gt;2. Текущая дистанция - дистанция, у которой локация конечного узла совпадает с текущей локацией.&lt;br&gt;2. Найти предыдущее значение локации для вагона/локомотива по Журналу трекинга.&lt;br&gt;2. Если предыдущее значение не совпадает с начальным значением&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;strokeWidth=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="705" y="630" width="255" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ZQdvw8Mw5SdcorRhIYN5-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZQdvw8Mw5SdcorRhIYN5-42" target="ZQdvw8Mw5SdcorRhIYN5-43">
           <mxGeometry relative="1" as="geometry" />
