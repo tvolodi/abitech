@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T10:15:19.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="wubuOqQxtSq0OB7m5tqO" version="19.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-15T11:17:13.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="HN8xlInUyhznl7Q6m-ZM" version="19.0.2" type="github" pages="2">
   <diagram id="80JNsqIN1oj9mV-6OZXV" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -213,7 +213,7 @@
           <mxGeometry x="160" y="1000" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZQdvw8Mw5SdcorRhIYN5-13" value="Если вагон не был на станции разгрузки, но был на любом пункте после пункта разгрузки, то считаем, что вагон был на пункте разгрузки и выгрузился" style="whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-192.5" y="820" width="205" height="180" as="geometry" />
+          <mxGeometry x="-192.5" y="865.5" width="205" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZQdvw8Mw5SdcorRhIYN5-15" value="Регистрация грузов" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="30" y="430" width="120" height="60" as="geometry" />
