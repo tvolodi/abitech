@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T04:09:24.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="zmqhNzrxl0Wb6oPT6si9" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T04:10:25.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="Zw1BaR5u6OKBhdlCw_uu" version="20.0.1" type="github">
   <diagram id="qD9cVtpdKziQ_UhONeAe" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
         <mxCell id="HZPL37ttOVomfuP8rKHR-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-1" target="HZPL37ttOVomfuP8rKHR-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HZPL37ttOVomfuP8rKHR-1" value="ТОиР" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="HZPL37ttOVomfuP8rKHR-1" value="ТОиР" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;strokeWidth=4;gradientColor=#ffd966;glass=0;shadow=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HZPL37ttOVomfuP8rKHR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-2" target="HZPL37ttOVomfuP8rKHR-4">
