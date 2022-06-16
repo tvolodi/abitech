@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T04:20:33.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="UIQ3Rj_nC8f6qTRtzt3h" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T04:22:58.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="uJ6hmJ-sU_YRI1hgrHwK" version="20.0.1" type="github">
   <diagram id="qD9cVtpdKziQ_UhONeAe" name="Page-1">
     <mxGraphModel dx="1053" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,7 +208,12 @@
           <mxGeometry x="380" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HZPL37ttOVomfuP8rKHR-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-53" target="HZPL37ttOVomfuP8rKHR-55">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1410" y="523" />
+              <mxPoint x="1181" y="523" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="HZPL37ttOVomfuP8rKHR-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-53" target="HZPL37ttOVomfuP8rKHR-57">
           <mxGeometry relative="1" as="geometry" />
@@ -220,7 +225,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HZPL37ttOVomfuP8rKHR-53" value="Логирование" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="1350" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HZPL37ttOVomfuP8rKHR-55" value="Авторизация пользователей" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="1121" y="555" width="120" height="60" as="geometry" />
