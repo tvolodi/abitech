@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T04:18:06.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="b6M9h-I2FvcloppQzcxB" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T04:20:33.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="UIQ3Rj_nC8f6qTRtzt3h" version="20.0.1" type="github">
   <diagram id="qD9cVtpdKziQ_UhONeAe" name="Page-1">
-    <mxGraphModel dx="917" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1053" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,9 +92,13 @@
         <mxCell id="HZPL37ttOVomfuP8rKHR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-1" target="HZPL37ttOVomfuP8rKHR-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="400" />
+              <mxPoint x="450" y="440" />
+              <mxPoint x="210" y="440" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-1" target="HZPL37ttOVomfuP8rKHR-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HZPL37ttOVomfuP8rKHR-1" value="ТОиР" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;strokeWidth=4;gradientColor=#ffd966;glass=0;shadow=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="100" height="40" as="geometry" />
@@ -202,6 +206,33 @@
         </mxCell>
         <mxCell id="HZPL37ttOVomfuP8rKHR-51" value="Поиск по ключевым словам" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="380" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-53" target="HZPL37ttOVomfuP8rKHR-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-53" target="HZPL37ttOVomfuP8rKHR-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-53" target="HZPL37ttOVomfuP8rKHR-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-53" target="HZPL37ttOVomfuP8rKHR-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-53" value="Логирование" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-55" value="Авторизация пользователей" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-57" value="Изменение данных" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-58" value="Ошибки в работе системы" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-59" value="Обмен с другими системами" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
