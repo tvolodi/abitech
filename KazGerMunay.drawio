@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T04:06:00.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="yREI3wdEy3BSUpCPcjys" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T04:09:24.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="zmqhNzrxl0Wb6oPT6si9" version="20.0.1" type="github">
   <diagram id="qD9cVtpdKziQ_UhONeAe" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,7 +24,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HZPL37ttOVomfuP8rKHR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-1" target="HZPL37ttOVomfuP8rKHR-14">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="380" />
+              <mxPoint x="650" y="505" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="HZPL37ttOVomfuP8rKHR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-1" target="HZPL37ttOVomfuP8rKHR-18">
           <mxGeometry relative="1" as="geometry">
@@ -69,7 +74,13 @@
         <mxCell id="HZPL37ttOVomfuP8rKHR-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-1" target="HZPL37ttOVomfuP8rKHR-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HZPL37ttOVomfuP8rKHR-1" value="ТОиР" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="HZPL37ttOVomfuP8rKHR-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-1" target="HZPL37ttOVomfuP8rKHR-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-1" target="HZPL37ttOVomfuP8rKHR-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-1" value="ТОиР" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HZPL37ttOVomfuP8rKHR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-2" target="HZPL37ttOVomfuP8rKHR-4">
@@ -129,8 +140,14 @@
         <mxCell id="HZPL37ttOVomfuP8rKHR-30" value="Интеграция с WinCC" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="20" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HZPL37ttOVomfuP8rKHR-32" value="База дефектов технологических линий&lt;br&gt;- по цехам&lt;br&gt;- по типам работ" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="HZPL37ttOVomfuP8rKHR-32" value="База дефектов технологических линий&lt;br&gt;- по цехам&lt;br&gt;- по типам работ" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="910" y="90" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-34" value="План потерь нефти на год/месяц/неделю" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;fillColor=#FF0000;gradientColor=#d5739d;strokeColor=#996185;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="740" y="90" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-36" value="" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;rounded=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
