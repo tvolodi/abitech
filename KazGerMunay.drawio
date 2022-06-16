@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T04:44:46.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="6S7jbNG5itSE3frKG5y8" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T04:50:46.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="sngbkxT1kzX3GDbN67Nt" version="20.0.1" type="github">
   <diagram id="qD9cVtpdKziQ_UhONeAe" name="Page-1">
     <mxGraphModel dx="2064" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,6 +114,14 @@
         </mxCell>
         <mxCell id="HZPL37ttOVomfuP8rKHR-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-1" target="HZPL37ttOVomfuP8rKHR-72">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-1" target="HZPL37ttOVomfuP8rKHR-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="380" />
+              <mxPoint x="650" y="840" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="HZPL37ttOVomfuP8rKHR-1" value="ТОиР" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;strokeWidth=4;gradientColor=#ffd966;glass=0;shadow=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="100" height="40" as="geometry" />
@@ -257,6 +265,9 @@
         <mxCell id="HZPL37ttOVomfuP8rKHR-63" value="Цифровая подпись" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="300" y="750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="HZPL37ttOVomfuP8rKHR-65" target="HZPL37ttOVomfuP8rKHR-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HZPL37ttOVomfuP8rKHR-65" value="Document work-flow&lt;br&gt;1. Согласование&lt;br&gt;2. Отклонение&lt;br&gt;3. Доработка&lt;br&gt;4. Проверка утвержденных документов" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="300" y="830" width="120" height="130" as="geometry" />
         </mxCell>
@@ -266,8 +277,20 @@
         <mxCell id="HZPL37ttOVomfuP8rKHR-70" value="Гео - карта идентификации опасности и оценки риска нештатных ситуаций при проведении работ&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="300" y="980" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="HZPL37ttOVomfuP8rKHR-72" value="Гео - карта огнетушители, пути эвакуации" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="HZPL37ttOVomfuP8rKHR-72" value="Гео - карта &lt;br&gt;- огнетушители, &lt;br&gt;- пути эвакуации&lt;br&gt;- работы" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="480" y="980" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-74" value="Типовые меры безопасности и средств защиты для каждого вида работ" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-75" value="Квалификация работников" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-76" value="Согласующие по документу" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="150" y="865" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZPL37ttOVomfuP8rKHR-78" value="Форма Выявления опасностей и рисков при проведении работ повышенной опасности.&lt;br&gt;Инструкция." style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="700" y="790" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
