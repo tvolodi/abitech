@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T06:31:24.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="uAU8IUBFbLbfxZZAqfKw" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T06:32:19.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="Hu6-3nXZg8ltc9VLlLYs" version="20.0.1" type="github">
   <diagram id="nf6re3Xe65oDxEoPcaBX" name="Page-1">
-    <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2267" dy="1284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
           <mxGeometry x="610" y="70" width="469.76" height="89.8" as="geometry" />
         </mxCell>
         <mxCell id="M8a38uKlfjJ2GWGPEGkD-33" value="Журнал работы устройства" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;fontColor=#808080;" vertex="1" parent="M8a38uKlfjJ2GWGPEGkD-19">
-          <mxGeometry x="610.0015752741774" y="50" width="228.53135593220338" height="20" as="geometry" />
+          <mxGeometry x="606.87" y="50" width="203.13" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M8a38uKlfjJ2GWGPEGkD-31" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=100;fillColor2=#99ddff;strokeColor2=none;direction=north;fontSize=12;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="M8a38uKlfjJ2GWGPEGkD-19">
           <mxGeometry x="570.4870212765958" y="70" width="24.25531914893617" height="339.5" as="geometry" />
