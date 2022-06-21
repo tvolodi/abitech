@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T05:37:17.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="FMomfHOlaPmZyYX1RCgc" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T05:40:24.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="s18Wc31huKt4kVPmFbOy" version="20.0.1" type="github">
   <diagram id="nf6re3Xe65oDxEoPcaBX" name="Page-1">
-    <mxGraphModel dx="713" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
             <mxPoint y="25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M8a38uKlfjJ2GWGPEGkD-25" value="&lt;table cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; border=&quot;1&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;№ п/п&lt;/th&gt;&lt;th&gt;Название&lt;/th&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Модель&lt;/td&gt;&lt;td&gt;Ед. измер.&lt;/td&gt;&lt;td&gt;Порт&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;RFID Антенна&lt;/td&gt;&lt;td&gt;Zebra FX-9600&lt;/td&gt;&lt;td&gt;Zebra FX-9600&lt;br&gt;&lt;/td&gt;&lt;td&gt;RFID код&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;RFID Антенна&lt;/td&gt;&lt;td&gt;Zebra FX-9600&lt;br&gt;&lt;/td&gt;&lt;td&gt;Zebra FX-9600&lt;br&gt;&lt;/td&gt;&lt;td&gt;RFID код&lt;br&gt;&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt; " style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fontColor=#000000;strokeColor=#007FFF;strokeWidth=2;fillColor=none;gradientColor=none;" vertex="1" parent="M8a38uKlfjJ2GWGPEGkD-19">
+        <mxCell id="M8a38uKlfjJ2GWGPEGkD-25" value="&lt;table cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; border=&quot;1&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;№ п/п&lt;/th&gt;&lt;th&gt;Название&lt;/th&gt;&lt;td&gt;Тип&lt;/td&gt;&lt;td&gt;Модель&lt;/td&gt;&lt;td&gt;Ед. измер.&lt;/td&gt;&lt;td&gt;Порт&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;RFID Антенна&lt;/td&gt;&lt;td&gt;Zebra FX-9600&lt;/td&gt;&lt;td&gt;Zebra FX-9600&lt;br&gt;&lt;/td&gt;&lt;td&gt;RFID код&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;&lt;b&gt;RFID Антенна&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Zebra FX-9600&lt;br&gt;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Zebra FX-9600&lt;br&gt;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;RFID код&lt;br&gt;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;2&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt; " style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fontColor=#000000;strokeColor=#007FFF;strokeWidth=2;fillColor=none;gradientColor=none;" vertex="1" parent="M8a38uKlfjJ2GWGPEGkD-19">
           <mxGeometry x="23.586786114221724" y="70" width="470.61254199328107" height="89.8" as="geometry" />
         </mxCell>
         <mxCell id="M8a38uKlfjJ2GWGPEGkD-26" value="Локация" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=14;fontColor=#808080;strokeColor=#007FFF;fillColor=none;fontStyle=0" vertex="1" parent="M8a38uKlfjJ2GWGPEGkD-19">
@@ -87,6 +87,15 @@
         </mxCell>
         <mxCell id="M8a38uKlfjJ2GWGPEGkD-30" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.splitter;strokeColor=#999999;direction=north;fontSize=12;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="M8a38uKlfjJ2GWGPEGkD-19">
           <mxGeometry x="516.6629339305711" y="70" width="11.231802911534155" height="339.5" as="geometry" />
+        </mxCell>
+        <mxCell id="M8a38uKlfjJ2GWGPEGkD-34" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=14;fontColor=#808080;strokeColor=#007FFF;strokeWidth=1;fillColor=none;gradientColor=none;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgY2xhc3M9ImJpIGJpLWZ1bm5lbCIgZmlsbD0iY3VycmVudENvbG9yIiBoZWlnaHQ9IjE2IiB3aWR0aD0iMTYiPiYjeGE7ICA8cGF0aCBkPSJNMS41IDEuNUEuNS41IDAgMCAxIDIgMWgxMmEuNS41IDAgMCAxIC41LjV2MmEuNS41IDAgMCAxLS4xMjguMzM0TDEwIDguNjkyVjEzLjVhLjUuNSAwIDAgMS0uMzQyLjQ3NGwtMyAxQS41LjUgMCAwIDEgNiAxNC41VjguNjkyTDEuNjI4IDMuODM0QS41LjUgMCAwIDEgMS41IDMuNXYtMnptMSAuNXYxLjMwOGw0LjM3MiA0Ljg1OEEuNS41IDAgMCAxIDcgOC41djUuMzA2bDItLjY2NlY4LjVhLjUuNSAwIDAgMSAuMTI4LS4zMzRMMTMuNSAzLjMwOFYyaC0xMXoiLz4mI3hhOzwvc3ZnPg==;" vertex="1" parent="M8a38uKlfjJ2GWGPEGkD-19">
+          <mxGeometry x="973" y="50" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="M8a38uKlfjJ2GWGPEGkD-36" value="Поиск" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=12;align=left;spacingLeft=3;fillColor=none;gradientColor=none;" vertex="1" parent="M8a38uKlfjJ2GWGPEGkD-19">
+          <mxGeometry x="366.6500000000001" y="39.5" width="120" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="M8a38uKlfjJ2GWGPEGkD-35" value="Поиск" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=12;align=left;spacingLeft=3;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="667.5" y="83" width="120" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
