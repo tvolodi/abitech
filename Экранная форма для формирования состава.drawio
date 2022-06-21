@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T09:55:06.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="u_kM_wBrFKnq_ldlDzYi" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T04:43:11.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="tl1Ua_AhYubCkBHFlVOb" version="20.0.1" type="github">
   <diagram id="YddccQSuvDtk1ljqOexG" name="Page-1">
     <mxGraphModel dx="1039" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,7 +47,19 @@
           <mxGeometry x="940" y="260" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Lie4oXFveS_dUMrb-o5G-17" value="&lt;table cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; border=&quot;1&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;№ п/п&lt;/th&gt;&lt;th&gt;Номер вагона&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;Вагон 1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;Вагон 2&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt; " style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1" vertex="1" parent="1">
-          <mxGeometry x="740" y="370" width="360" height="100" as="geometry" />
+          <mxGeometry x="740" y="390" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Lie4oXFveS_dUMrb-o5G-18" value="" style="shape=ellipse;dashed=0;strokeColor=none;shadow=1;fontSize=13;align=center;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;html=1;aspect=fixed;labelBackgroundColor=#99FFFF;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1064" y="510" width="36" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Lie4oXFveS_dUMrb-o5G-19" value="" style="dashed=0;html=1;shape=mxgraph.gmdl.x;strokeColor=#737373;strokeWidth=2;shadow=0;sketch=0;labelBackgroundColor=#99FFFF;fontSize=12;fontColor=#000000;fillColor=none;" vertex="1" parent="Lie4oXFveS_dUMrb-o5G-18">
+          <mxGeometry x="12.857142857142858" y="12.857142857142858" width="10.285714285714286" height="10.285714285714286" as="geometry" />
+        </mxCell>
+        <mxCell id="Lie4oXFveS_dUMrb-o5G-20" value="" style="shape=ellipse;fillColor=#FF4081;strokeColor=none;shadow=1;aspect=fixed;sketch=0;labelBackgroundColor=#99FFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="740" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lie4oXFveS_dUMrb-o5G-21" value="" style="dashed=0;html=1;shape=mxgraph.gmdl.plus;strokeColor=#ffffff;strokeWidth=2;shadow=0;sketch=0;labelBackgroundColor=#99FFFF;fontSize=12;fontColor=#000000;fillColor=none;" vertex="1" parent="Lie4oXFveS_dUMrb-o5G-20">
+          <mxGeometry x="10.714285714285715" y="10.714285714285715" width="8.571428571428571" height="8.571428571428571" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
