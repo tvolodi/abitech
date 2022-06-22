@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T09:44:54.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="D-uXngpyN9ibce_lQ6TP" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-22T09:49:22.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="myIP_uNfn-UCjWC-9FLF" version="20.0.1" type="github" pages="2">
   <diagram id="AmvlcQakkHeupNHA5R5p" name="Page-1">
     <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,11 +42,29 @@
         <mxCell id="k7subxAmtpSVsiqhcWPV-1" value="" style="ellipse;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="330" y="50" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k7subxAmtpSVsiqhcWPV-2" target="k7subxAmtpSVsiqhcWPV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-2" value="Выбрать ед.оборудования, &lt;br&gt;у которых есть классы оборудования, &lt;br&gt;у которых есть виды обслуживания &lt;br&gt;с условиями обслуживания &lt;br&gt;по периоду &lt;br&gt;или эксплуатационным показателям" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="120" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-3" value="Повторяющиеся работы" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="560" y="40" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-5" value="Условие обслуживания на основе периода" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-7" value="" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-10" value="Найти дату последнего обслуживания по этому виду обслуживания" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="400" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-11" value="" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="500" y="500" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-12" value="Найти дату ввода в эксплуатацию. Считать, что это дата последнего обслуживания" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="580" width="170" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
