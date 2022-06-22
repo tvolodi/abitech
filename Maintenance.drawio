@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T09:21:37.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" version="20.0.1" etag="lH4_S5nxC53OI3XJvKcp" type="github"><diagram id="AmvlcQakkHeupNHA5R5p">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-22T09:24:17.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="UhFAHIYWfxTC5iJCg0LU" version="20.0.1" type="github">
+  <diagram id="AmvlcQakkHeupNHA5R5p" name="Page-1">
+    <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-pXmxo18ZLhnPIGWP_HV-1" value="Класс оборудования / ОС&#xa;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="20" y="160" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-pXmxo18ZLhnPIGWP_HV-2" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="-pXmxo18ZLhnPIGWP_HV-1">
+          <mxGeometry y="30" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-pXmxo18ZLhnPIGWP_HV-5" value="Виды обслуживания&#xa;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-pXmxo18ZLhnPIGWP_HV-6" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="-pXmxo18ZLhnPIGWP_HV-5">
+          <mxGeometry y="30" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-pXmxo18ZLhnPIGWP_HV-7" value="Условия обслуживания&#xa;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-pXmxo18ZLhnPIGWP_HV-8" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="-pXmxo18ZLhnPIGWP_HV-7">
+          <mxGeometry y="30" width="200" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
