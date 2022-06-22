@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T09:49:22.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="myIP_uNfn-UCjWC-9FLF" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-22T09:54:56.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="lsiAYsye0Y91w9hAUHwT" version="20.0.1" type="github" pages="2">
   <diagram id="AmvlcQakkHeupNHA5R5p" name="Page-1">
     <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,8 +63,14 @@
         <mxCell id="k7subxAmtpSVsiqhcWPV-11" value="" style="rhombus;" vertex="1" parent="1">
           <mxGeometry x="500" y="500" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k7subxAmtpSVsiqhcWPV-12" value="Найти дату ввода в эксплуатацию. Считать, что это дата последнего обслуживания" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="580" width="170" height="70" as="geometry" />
+        <mxCell id="k7subxAmtpSVsiqhcWPV-12" value="Найти дату ввода в эксплуатацию.&amp;nbsp;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="580" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-13" value="Дата ввода в эксплуатацию отстоит от текущей даты больше, чем период обслуживания (забыли занести последнее обслуживание?)" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="660" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-14" value="Найти следующую дату обслуживания" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="790" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
