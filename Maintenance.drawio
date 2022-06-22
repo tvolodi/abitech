@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T09:27:43.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="6rxLOonUCCNZbBn-3Qyj" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T09:42:03.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="-ohaey4W7ykNlu0wku9E" version="20.0.1" type="github" pages="2">
   <diagram id="AmvlcQakkHeupNHA5R5p" name="Page-1">
     <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,6 +28,14 @@
         <mxCell id="-pXmxo18ZLhnPIGWP_HV-10" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="-pXmxo18ZLhnPIGWP_HV-9">
           <mxGeometry y="30" width="200" height="100" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kZJRzVS4t4NXOSGRWsG1" name="Планирование">
+    <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
