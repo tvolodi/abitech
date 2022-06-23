@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T05:09:00.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="gFw-RF8FGwyohUz1Wu1x" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-23T05:10:53.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="7p0WonIWtfhSDeHBWCXR" version="20.0.1" type="github" pages="2">
   <diagram id="nu44lOmmYdovMivt4aMq" name="Функции">
     <mxGraphModel dx="2842" dy="1841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,7 +140,7 @@
         <mxCell id="1585sADhkds7L9PGY0fH-41" value="HR&lt;br style=&quot;font-size: 20px;&quot;&gt;Оргструктура+персонал" style="whiteSpace=wrap;html=1;rounded=1;sketch=0;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontSize=20;fontStyle=5;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="520" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1585sADhkds7L9PGY0fH-42" value="Трэкинг" style="whiteSpace=wrap;html=1;rounded=1;sketch=0;fillColor=#FFFFCC;strokeColor=#36393d;gradientColor=#CCCC00;fontSize=20;fontStyle=5;shadow=1;" parent="1" vertex="1">
+        <mxCell id="1585sADhkds7L9PGY0fH-42" value="Трэкинг" style="whiteSpace=wrap;html=1;rounded=1;sketch=0;fillColor=#FFFFFF;strokeColor=#36393d;gradientColor=#FFFF00;fontSize=20;fontStyle=5;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1585sADhkds7L9PGY0fH-43" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1585sADhkds7L9PGY0fH-139" target="1585sADhkds7L9PGY0fH-138" edge="1">
@@ -170,7 +170,7 @@
         <mxCell id="1585sADhkds7L9PGY0fH-47" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1585sADhkds7L9PGY0fH-48" target="1585sADhkds7L9PGY0fH-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1585sADhkds7L9PGY0fH-48" value="Роли" style="whiteSpace=wrap;html=1;rounded=1;sketch=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="1585sADhkds7L9PGY0fH-48" value="Роли" style="whiteSpace=wrap;html=1;rounded=1;sketch=0;fillColor=#FFFFFF;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="350" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1585sADhkds7L9PGY0fH-49" value="Полномочия" style="whiteSpace=wrap;html=1;rounded=1;sketch=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
@@ -466,7 +466,7 @@
         <mxCell id="1585sADhkds7L9PGY0fH-140" value="Расстояния между локациями" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;rounded=1;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="-1000" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1585sADhkds7L9PGY0fH-141" value="СИЦ" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;rounded=1;sketch=0;labelBackgroundColor=none;fontSize=20;fontStyle=5;shadow=1;" parent="1" vertex="1">
+        <mxCell id="1585sADhkds7L9PGY0fH-141" value="СИЦ" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#36393d;rounded=1;sketch=0;labelBackgroundColor=none;fontSize=20;fontStyle=5;shadow=1;gradientColor=#FFFF00;gradientDirection=south;" parent="1" vertex="1">
           <mxGeometry x="50" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1585sADhkds7L9PGY0fH-142" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="1585sADhkds7L9PGY0fH-143" target="1585sADhkds7L9PGY0fH-144" edge="1">
@@ -619,22 +619,22 @@
         <mxCell id="6ZCKuQrWmOZW_DHMc_V3-7" value="Элементы документооборота" style="whiteSpace=wrap;html=1;fontSize=24;fillColor=#FFFFFF;strokeColor=#d6b656;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#FFFF00;fontStyle=5;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="-425" y="820" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="6ZCKuQrWmOZW_DHMc_V3-9" value="Статусы документов" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFCC;strokeColor=#d6b656;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#FFFF00;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="6ZCKuQrWmOZW_DHMc_V3-9" value="Статусы документов" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#d6b656;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#FFFF00;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="-571.5" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6ZCKuQrWmOZW_DHMc_V3-11" value="Полномочия для ролей для статусов документов" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFCC;strokeColor=#d6b656;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#FFFF00;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="6ZCKuQrWmOZW_DHMc_V3-11" value="Полномочия для ролей для статусов документов" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#d6b656;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#FFFF00;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="-423.5" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6ZCKuQrWmOZW_DHMc_V3-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="6ZCKuQrWmOZW_DHMc_V3-13" target="6ZCKuQrWmOZW_DHMc_V3-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6ZCKuQrWmOZW_DHMc_V3-13" value="Рабочее место работника (кабинет)" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFCC;strokeColor=#d6b656;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#FFFF00;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="6ZCKuQrWmOZW_DHMc_V3-13" value="Рабочее место работника (кабинет)" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#d6b656;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#FFFF00;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="-278.5" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6ZCKuQrWmOZW_DHMc_V3-15" value="Рассылка уведомлений на действия с документами" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFCC;strokeColor=#d6b656;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#FFFF00;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="6ZCKuQrWmOZW_DHMc_V3-15" value="Рассылка уведомлений на действия с документами" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#d6b656;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#FFFF00;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="-130" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6ZCKuQrWmOZW_DHMc_V3-17" value="Помещение документов на рабочее место" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFCC;strokeColor=#d6b656;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#FFFF00;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="6ZCKuQrWmOZW_DHMc_V3-17" value="Помещение документов на рабочее место" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;strokeColor=#d6b656;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#FFFF00;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="-278.5" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
