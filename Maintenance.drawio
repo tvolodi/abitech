@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T04:09:36.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="D0xNxH9Z_iu3sYfZ-gsh" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-23T04:10:23.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="ntUlLJa2nYnbvy9RYb6x" version="20.0.1" type="github" pages="2">
   <diagram id="AmvlcQakkHeupNHA5R5p" name="Page-1">
     <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kZJRzVS4t4NXOSGRWsG1" name="Планирование">
-    <mxGraphModel dx="2078" dy="1177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="998" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,13 +137,16 @@
         <mxCell id="k7subxAmtpSVsiqhcWPV-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k7subxAmtpSVsiqhcWPV-37" target="k7subxAmtpSVsiqhcWPV-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k7subxAmtpSVsiqhcWPV-55" value="Наряд-задаДата найдена" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k7subxAmtpSVsiqhcWPV-54">
+        <mxCell id="k7subxAmtpSVsiqhcWPV-55" value="Дата найдена" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k7subxAmtpSVsiqhcWPV-54">
           <mxGeometry x="-0.5036" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-37" value="" style="rhombus;" vertex="1" parent="1">
           <mxGeometry x="1550" y="560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k7subxAmtpSVsiqhcWPV-38" target="k7subxAmtpSVsiqhcWPV-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-38" value="Определить дату обслуживания для периода planned_period_counter с учетом типа периода (рабочие дни или календарные)" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="1664" y="610" width="206" height="90" as="geometry" />
@@ -160,8 +163,14 @@
         <mxCell id="k7subxAmtpSVsiqhcWPV-41" value="Установить счетчик наряд-заданий/периодов в 0&lt;br&gt;planned_period_counter = 0" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="1480" y="310" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k7subxAmtpSVsiqhcWPV-44" target="k7subxAmtpSVsiqhcWPV-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-44" value="Сверить полученную дату обслуживания с запланированной датой для наряд-задания для planned_period_counter" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="1782" y="870" width="206" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k7subxAmtpSVsiqhcWPV-46" target="k7subxAmtpSVsiqhcWPV-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-46" value="" style="rhombus;" vertex="1" parent="1">
           <mxGeometry x="1870" y="1000" width="30" height="30" as="geometry" />
@@ -172,8 +181,14 @@
         <mxCell id="k7subxAmtpSVsiqhcWPV-47" value="Увеличить счетчик planned_period_counter на 1 =&amp;gt; перейти к расчету следующего периода" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="1960" y="1090" width="206" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k7subxAmtpSVsiqhcWPV-49" target="k7subxAmtpSVsiqhcWPV-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-49" value="Взять из списка наряд-заданий наряд-задание для периода planned_period_counter" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="1664" y="720" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k7subxAmtpSVsiqhcWPV-50" target="k7subxAmtpSVsiqhcWPV-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-50" value="" style="rhombus;" vertex="1" parent="1">
           <mxGeometry x="1752" y="800" width="30" height="30" as="geometry" />
