@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T04:10:23.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="ntUlLJa2nYnbvy9RYb6x" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-23T04:15:20.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="uJTX9pKUyx3KU9MSsKF4" version="20.0.1" type="github" pages="2">
   <diagram id="AmvlcQakkHeupNHA5R5p" name="Page-1">
     <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kZJRzVS4t4NXOSGRWsG1" name="Планирование">
-    <mxGraphModel dx="998" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
         <mxCell id="k7subxAmtpSVsiqhcWPV-31" value="Сформировать список наряд-заданий для периода" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="360" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="k7subxAmtpSVsiqhcWPV-35" value="Проверить правильность и полноту списка наряд-заданий для периода" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+        <mxCell id="k7subxAmtpSVsiqhcWPV-35" value="Сформировать плановые наряд-задания для периода планирования" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="1470" y="170" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k7subxAmtpSVsiqhcWPV-36" target="k7subxAmtpSVsiqhcWPV-37">
@@ -145,11 +145,11 @@
         <mxCell id="k7subxAmtpSVsiqhcWPV-37" value="" style="rhombus;" vertex="1" parent="1">
           <mxGeometry x="1550" y="560" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k7subxAmtpSVsiqhcWPV-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k7subxAmtpSVsiqhcWPV-38" target="k7subxAmtpSVsiqhcWPV-49">
+        <mxCell id="k7subxAmtpSVsiqhcWPV-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="k7subxAmtpSVsiqhcWPV-38" target="k7subxAmtpSVsiqhcWPV-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-38" value="Определить дату обслуживания для периода planned_period_counter с учетом типа периода (рабочие дни или календарные)" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="1664" y="610" width="206" height="90" as="geometry" />
+          <mxGeometry x="1664" y="600" width="206" height="90" as="geometry" />
         </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k7subxAmtpSVsiqhcWPV-40" target="k7subxAmtpSVsiqhcWPV-41">
           <mxGeometry relative="1" as="geometry" />
@@ -167,31 +167,53 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-44" value="Сверить полученную дату обслуживания с запланированной датой для наряд-задания для planned_period_counter" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="1782" y="870" width="206" height="90" as="geometry" />
+          <mxGeometry x="1958" y="1054" width="206" height="90" as="geometry" />
         </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k7subxAmtpSVsiqhcWPV-46" target="k7subxAmtpSVsiqhcWPV-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-65" value="Совпадает" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k7subxAmtpSVsiqhcWPV-60">
+          <mxGeometry x="-0.2252" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-46" value="" style="rhombus;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="1000" width="30" height="30" as="geometry" />
+          <mxGeometry x="2046" y="1184" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="k7subxAmtpSVsiqhcWPV-47" target="k7subxAmtpSVsiqhcWPV-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-47" value="Увеличить счетчик planned_period_counter на 1 =&amp;gt; перейти к расчету следующего периода" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="1090" width="206" height="90" as="geometry" />
+          <mxGeometry x="2136" y="1274" width="206" height="90" as="geometry" />
         </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k7subxAmtpSVsiqhcWPV-49" target="k7subxAmtpSVsiqhcWPV-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-49" value="Взять из списка наряд-заданий наряд-задание для периода planned_period_counter" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="1664" y="720" width="206" height="60" as="geometry" />
+          <mxGeometry x="1840" y="904" width="206" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k7subxAmtpSVsiqhcWPV-50" target="k7subxAmtpSVsiqhcWPV-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-66" value="НЗ есть" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k7subxAmtpSVsiqhcWPV-58">
+          <mxGeometry x="-0.2008" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-50" value="" style="rhombus;" vertex="1" parent="1">
-          <mxGeometry x="1752" y="800" width="30" height="30" as="geometry" />
+          <mxGeometry x="1928" y="984" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k7subxAmtpSVsiqhcWPV-61" target="k7subxAmtpSVsiqhcWPV-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-61" value="Проверить, что дата выполнения не превышает период планирования" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="1664" y="730" width="206" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-64" value="Не превышает" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k7subxAmtpSVsiqhcWPV-62" target="k7subxAmtpSVsiqhcWPV-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-62" value="" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="1752" y="815" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
