@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T03:34:15.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="xqHA2-dwhKkoKlAfkPUM" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-23T03:45:56.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="G798zaCMAab1-Wg7B5gg" version="20.0.1" type="github" pages="2">
   <diagram id="nu44lOmmYdovMivt4aMq" name="Функции">
     <mxGraphModel dx="3732" dy="2346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -654,6 +654,9 @@
         <mxCell id="6urLxUqnxAPBhFrmIxZC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="BGDDAnFIRFm_zFormPum-3" target="6urLxUqnxAPBhFrmIxZC-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="BGDDAnFIRFm_zFormPum-3" target="6urLxUqnxAPBhFrmIxZC-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BGDDAnFIRFm_zFormPum-3" value="Планирование" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#7ea6e0;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="-30" y="60" width="120" height="60" as="geometry" />
         </mxCell>
@@ -701,6 +704,9 @@
         </mxCell>
         <mxCell id="6urLxUqnxAPBhFrmIxZC-25" value="Форма рассылки" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#7ea6e0;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="445" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-27" value="Учет праздничных дней" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#7ea6e0;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
