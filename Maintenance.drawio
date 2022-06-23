@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T03:57:03.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="M0_zUsrCM_1EyW-QSmpT" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-23T03:59:58.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="pTBxEqNpZzD7qkezAeGm" version="20.0.1" type="github" pages="2">
   <diagram id="AmvlcQakkHeupNHA5R5p" name="Page-1">
     <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kZJRzVS4t4NXOSGRWsG1" name="Планирование">
-    <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,10 +120,25 @@
           <mxGeometry x="867" y="300" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-29" value="Проверить правильность и полноту списка наряд-заданий для периода" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="360" width="170" height="70" as="geometry" />
+          <mxGeometry x="950" y="370" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k7subxAmtpSVsiqhcWPV-31" value="Сформировать список наряд-заданий для периода" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="360" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-35" value="Проверить правильность и полноту списка наряд-заданий для периода" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="170" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-36" value="Найти дату последнего обслуживания по этому виду обслуживания" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="300" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-37" value="" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="400" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-38" value="Дата последнего обслуживания отстоит от текущей даты на период меньше периода обслуживания" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="495" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k7subxAmtpSVsiqhcWPV-40" value="" style="ellipse;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="260" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
