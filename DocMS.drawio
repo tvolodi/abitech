@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T08:35:37.669Z" agent="5.0 (Windows)" etag="c1VwofSy_mksq2m9uucz" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T10:32:00.772Z" agent="5.0 (Windows)" etag="co-EzKsN4kWuN6CmJrGo" version="20.0.3" type="github">
   <diagram id="vTnfGZ785RU8JhbIHK8r" name="Page-1">
     <mxGraphModel dx="1354" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,6 +94,15 @@
         </mxCell>
         <mxCell id="SUBSh_5JTEmKqPY9ibjh-26" value="Выполнен частично" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="730" y="800" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-31" value="Object" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="60" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-32" value="Состояние документа" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="140" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-33" value="Состояние документа" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="140" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
