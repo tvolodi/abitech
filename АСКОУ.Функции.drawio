@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T09:21:02.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="pkCo1USjA0z_ASYo_ZFk" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T03:19:26.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="klm2PuHmoKPQWmA8Tnjn" version="20.0.1" type="github" pages="2">
   <diagram id="nu44lOmmYdovMivt4aMq" name="Функции">
-    <mxGraphModel dx="3121" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3732" dy="2346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -600,6 +600,95 @@
         </mxCell>
         <mxCell id="myCQ_AE_SCM9vGws5eOE-23" value="Экранная форма для ввода показаний" style="whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;rounded=1;sketch=0;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="1790" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LfEbrRwgobDrA3rDUtCw" name="КАН">
+    <mxGraphModel dx="1866" dy="1757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kELSedS1o_YB-Zj-obXN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kELSedS1o_YB-Zj-obXN-1" target="kELSedS1o_YB-Zj-obXN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BGDDAnFIRFm_zFormPum-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="kELSedS1o_YB-Zj-obXN-1" target="BGDDAnFIRFm_zFormPum-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kELSedS1o_YB-Zj-obXN-1" value="АСКОУ-ТОиР" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;labelBackgroundColor=none;fillColor=#FFE6CC;gradientColor=#ffa500;strokeColor=#d79b00;fontSize=32;fontStyle=5;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="210" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BGDDAnFIRFm_zFormPum-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="kELSedS1o_YB-Zj-obXN-2" target="BGDDAnFIRFm_zFormPum-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="kELSedS1o_YB-Zj-obXN-2" target="6urLxUqnxAPBhFrmIxZC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="kELSedS1o_YB-Zj-obXN-1" target="6urLxUqnxAPBhFrmIxZC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="kELSedS1o_YB-Zj-obXN-2" target="6urLxUqnxAPBhFrmIxZC-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kELSedS1o_YB-Zj-obXN-2" value="Наряд-задание" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#7ea6e0;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="281.25" y="50" width="207.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BGDDAnFIRFm_zFormPum-1" value="Пауза для выполняющихся работ" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#7ea6e0;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="BGDDAnFIRFm_zFormPum-3" target="6urLxUqnxAPBhFrmIxZC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="BGDDAnFIRFm_zFormPum-3" target="6urLxUqnxAPBhFrmIxZC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="BGDDAnFIRFm_zFormPum-3" target="6urLxUqnxAPBhFrmIxZC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="BGDDAnFIRFm_zFormPum-3" target="6urLxUqnxAPBhFrmIxZC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="BGDDAnFIRFm_zFormPum-3" target="6urLxUqnxAPBhFrmIxZC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BGDDAnFIRFm_zFormPum-3" value="Планирование" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#7ea6e0;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-1" value="&lt;span style=&quot;&quot;&gt;Планирование по бригадам&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#7ea6e0;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-3" value="Планирование с точностью до часов" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#7ea6e0;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-5" value="Планирование нескольких УП" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#7ea6e0;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-7" value="Выделить актуальные задачи на фоне будущих задач" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#7ea6e0;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-9" value="График работ по работнику + календарь" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#7ea6e0;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kELSedS1o_YB-Zj-obXN-1" target="6urLxUqnxAPBhFrmIxZC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-11" value="Документы по работам" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#7ea6e0;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-13" value="Добавление&amp;nbsp; администратору возможность выбора документов, работ и оборудования (фильтрацию) по комплексам и удаленным позициям.выбирать документов" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;rounded=1;sketch=0;labelBackgroundColor=none;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="630" width="180" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-15" value="8. Указывать расчетное время задачи во вкладке Задачи на СМТ." style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;rounded=1;sketch=0;labelBackgroundColor=none;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-17" value="Логирование" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#7ea6e0;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-19" value="Запрет на хронометраж 2-х задач и более" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#7ea6e0;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6urLxUqnxAPBhFrmIxZC-21" value="Мониторинг загруженности работника" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#7ea6e0;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
