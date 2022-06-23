@@ -1,1 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T08:17:15.809Z" agent="5.0 (Windows)" version="20.0.3" etag="5iL5Lbr0yaKITu-ARNDI" type="github"><diagram id="vTnfGZ785RU8JhbIHK8r">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-23T08:35:37.669Z" agent="5.0 (Windows)" etag="c1VwofSy_mksq2m9uucz" version="20.0.3" type="github">
+  <diagram id="vTnfGZ785RU8JhbIHK8r" name="Page-1">
+    <mxGraphModel dx="1354" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SUBSh_5JTEmKqPY9ibjh-2" target="SUBSh_5JTEmKqPY9ibjh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SUBSh_5JTEmKqPY9ibjh-2" target="SUBSh_5JTEmKqPY9ibjh-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-2" value="Новый" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="210" y="110" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SUBSh_5JTEmKqPY9ibjh-3" target="SUBSh_5JTEmKqPY9ibjh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-3" value="" style="ellipse;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SUBSh_5JTEmKqPY9ibjh-5" target="SUBSh_5JTEmKqPY9ibjh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SUBSh_5JTEmKqPY9ibjh-5" target="SUBSh_5JTEmKqPY9ibjh-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-5" value="Утвержден" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="400" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SUBSh_5JTEmKqPY9ibjh-6" target="SUBSh_5JTEmKqPY9ibjh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SUBSh_5JTEmKqPY9ibjh-6" target="SUBSh_5JTEmKqPY9ibjh-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-6" value="К исполнению" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SUBSh_5JTEmKqPY9ibjh-7" target="SUBSh_5JTEmKqPY9ibjh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SUBSh_5JTEmKqPY9ibjh-7" target="SUBSh_5JTEmKqPY9ibjh-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-7" value="В работе" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="730" y="440" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SUBSh_5JTEmKqPY9ibjh-8" target="SUBSh_5JTEmKqPY9ibjh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-8" value="Выполнен" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="890" y="540" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SUBSh_5JTEmKqPY9ibjh-9" target="SUBSh_5JTEmKqPY9ibjh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.85;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SUBSh_5JTEmKqPY9ibjh-9" target="SUBSh_5JTEmKqPY9ibjh-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-30" value="Доработка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SUBSh_5JTEmKqPY9ibjh-29">
+          <mxGeometry x="0.4643" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-9" value="Работы приняты" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="680" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SUBSh_5JTEmKqPY9ibjh-10" target="SUBSh_5JTEmKqPY9ibjh-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-10" value="Закрыт" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="800" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-11" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1296" y="930" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SUBSh_5JTEmKqPY9ibjh-19" target="SUBSh_5JTEmKqPY9ibjh-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-19" value="Удален" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="210" y="560" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SUBSh_5JTEmKqPY9ibjh-22" target="SUBSh_5JTEmKqPY9ibjh-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-22" value="Отменен" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="430" y="560" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SUBSh_5JTEmKqPY9ibjh-26" target="SUBSh_5JTEmKqPY9ibjh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SUBSh_5JTEmKqPY9ibjh-26" value="Выполнен частично" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="730" y="800" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
