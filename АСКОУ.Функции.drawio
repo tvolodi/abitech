@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T08:57:40.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="A9zFzrCZzjmBFT74Gg8E" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-24T03:38:07.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="BhgQVMTWm9VX-52kd_r4" version="20.0.1" type="github" pages="3">
   <diagram id="nu44lOmmYdovMivt4aMq" name="Функции">
-    <mxGraphModel dx="3040" dy="1953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3435" dy="2178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -496,7 +496,7 @@
         <mxCell id="1585sADhkds7L9PGY0fH-149" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="1585sADhkds7L9PGY0fH-150" target="1585sADhkds7L9PGY0fH-157" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1585sADhkds7L9PGY0fH-150" value="Наряд-задание" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;sketch=0;gradientColor=#97d077;" parent="1" vertex="1">
+        <mxCell id="1585sADhkds7L9PGY0fH-150" value="Наряд-задание&lt;br&gt;(КАН-КТЖ)" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;sketch=0;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="1241" y="-360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1585sADhkds7L9PGY0fH-151" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Оргединица&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Локация&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Исполнитель&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4. Дата обслуживания&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5. Приоритет&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;6. Крайний срок&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;7. Класс оборудования&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;rounded=1;sketch=0;" parent="1" vertex="1">
@@ -661,6 +661,9 @@
         <mxCell id="6ZCKuQrWmOZW_DHMc_V3-25" value="Квалификации" style="whiteSpace=wrap;html=1;rounded=1;sketch=0;fillColor=#FFFFFF;gradientColor=#FFFF00;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="380" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6ZCKuQrWmOZW_DHMc_V3-29" value="Наряд-задание" style="whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#000000;rounded=1;sketch=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="-361.25" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -768,6 +771,14 @@
         <mxCell id="6urLxUqnxAPBhFrmIxZC-27" value="Учет праздничных дней" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=0;labelBackgroundColor=none;gradientColor=#7ea6e0;fontStyle=0;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="-640" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WmjSB126S4V7ZY2PWDFy" name="Наряд-задание">
+    <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
