@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T05:44:52.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="9I7i7NcPMQLZbYH5m7zE" version="20.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-24T05:56:57.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="SQ3njgAMBWtpxFdt46Sb" version="20.0.1" type="github" pages="3">
   <diagram id="nu44lOmmYdovMivt4aMq" name="Функции">
     <mxGraphModel dx="3121" dy="3169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -701,7 +701,7 @@
         <mxCell id="KgsNd8ml2Oa4zYPfAGWD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;elbow=vertical;" edge="1" parent="1" source="KgsNd8ml2Oa4zYPfAGWD-6" target="KgsNd8ml2Oa4zYPfAGWD-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KgsNd8ml2Oa4zYPfAGWD-6" value="Бригады" style="whiteSpace=wrap;fillColor=#CC00CC;strokeColor=#000000;rounded=1;sketch=0;fontColor=#000000;html=1;shadow=1;" vertex="1" parent="1">
+        <mxCell id="KgsNd8ml2Oa4zYPfAGWD-6" value="AB-69 Бригады" style="whiteSpace=wrap;fillColor=#CC00CC;strokeColor=#000000;rounded=1;sketch=0;fontColor=#000000;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1472" y="-1070" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KgsNd8ml2Oa4zYPfAGWD-7" value="Workflow&lt;br&gt;(статусы)" style="whiteSpace=wrap;fillColor=#CC00CC;strokeColor=#000000;rounded=1;sketch=0;fontColor=#000000;html=1;shadow=1;" vertex="1" parent="1">
