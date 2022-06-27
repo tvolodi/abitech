@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T03:46:56.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="ZgxiITT_7xtRPuU40CgR" version="20.0.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-06-27T03:51:44.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="fk2gPhM5Flva7yz-H8-f" version="20.0.3" type="github" pages="6">
   <diagram name="Наряд-задание. Однотипное оборудование" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -860,14 +860,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lwkU-xTKpq7w7Znbt4JB-1" value="В срок" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="150" width="140" height="40" as="geometry" />
+        <mxCell id="lwkU-xTKpq7w7Znbt4JB-1" value="Начата раньше срока" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lwkU-xTKpq7w7Znbt4JB-2" value="" style="ellipse;fillColor=#ffffff;strokeColor=#000000;shadow=0;labelBackgroundColor=none;labelBorderColor=none;html=0;" vertex="1" parent="1">
           <mxGeometry x="255" y="60" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lwkU-xTKpq7w7Znbt4JB-3" value="Не в срок" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="240" width="140" height="40" as="geometry" />
+        <mxCell id="lwkU-xTKpq7w7Znbt4JB-3" value="Начата в срок" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X6jM7CIM23dRI-rXpw_p-1" value="Не начата" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X6jM7CIM23dRI-rXpw_p-2" value="Начата позже" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X6jM7CIM23dRI-rXpw_p-3" value="Закончена раньше срока" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="470" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X6jM7CIM23dRI-rXpw_p-4" value="Закончена в срок" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X6jM7CIM23dRI-rXpw_p-5" value="Закончена с опозданием" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="600" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
