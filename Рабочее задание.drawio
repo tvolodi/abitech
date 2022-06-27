@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T05:27:12.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="889bPyjsrNvnr4rrHyyu" version="20.0.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-06-27T06:03:52.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="nvYAXvSQjOMU9r2CfB90" version="20.0.3" type="github" pages="6">
   <diagram name="Наряд-задание. Однотипное оборудование" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -309,7 +309,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OH_UwLUDFq6uR3hJUdXP-2" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#999999;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;labelBackgroundColor=none;fontColor=#000000;fillColor=default;gradientColor=none;gradientDirection=north;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="570" width="560.0035514018693" height="370" as="geometry" />
+          <mxGeometry x="1090" y="570" width="650" height="370" as="geometry" />
         </mxCell>
         <mxCell id="OH_UwLUDFq6uR3hJUdXP-3" value="Чек-лист" style="shape=rect;strokeColor=default;fillColor=#FFFFFF;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#000000;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;labelBackgroundColor=none;fontStyle=1" parent="OH_UwLUDFq6uR3hJUdXP-2" vertex="1">
           <mxGeometry x="5" width="100" height="30" as="geometry" />
@@ -337,6 +337,9 @@
         </mxCell>
         <mxCell id="OH_UwLUDFq6uR3hJUdXP-11" value="&lt;h6&gt;Заметка&lt;/h6&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#000000;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=none;whiteSpace=wrap;labelBackgroundColor=none;" parent="OH_UwLUDFq6uR3hJUdXP-2" vertex="1">
           <mxGeometry x="492.62037383177585" y="87" width="67.38317757009345" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="xjqYJGVmsu5X_k6xEtzy-1" value="Показания" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#B20000;fillColor=#e51400;align=left;fillColor2=#aaddff;mainText=;fontColor=#000000;fontSize=17;spacingLeft=3;labelBackgroundColor=none;" vertex="1" parent="OH_UwLUDFq6uR3hJUdXP-2">
+          <mxGeometry x="200" y="210" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OH_UwLUDFq6uR3hJUdXP-22" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#999999;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;labelBackgroundColor=none;fontColor=#000000;fillColor=default;gradientColor=none;gradientDirection=north;" parent="1" vertex="1">
           <mxGeometry x="1094" y="960" width="560.0035514018693" height="376" as="geometry" />
