@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T03:23:49.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="rSNYX3BVLX8Nw--GpQ2p" version="20.0.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-27T08:24:58.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="K5cumjC8yJIeJraC1TAz" version="20.0.3" type="github" pages="3">
   <diagram id="nu44lOmmYdovMivt4aMq" name="Функции">
     <mxGraphModel dx="3213" dy="3221" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -719,13 +719,13 @@
         <mxCell id="KgsNd8ml2Oa4zYPfAGWD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;elbow=vertical;" parent="1" source="KgsNd8ml2Oa4zYPfAGWD-6" target="KgsNd8ml2Oa4zYPfAGWD-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KgsNd8ml2Oa4zYPfAGWD-6" value="AB-69 Бригады" style="whiteSpace=wrap;fillColor=#CC00CC;strokeColor=#000000;rounded=1;sketch=0;fontColor=#000000;html=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="KgsNd8ml2Oa4zYPfAGWD-6" value="AB-69 Бригады" style="whiteSpace=wrap;fillColor=#FF66FF;strokeColor=#000000;rounded=1;sketch=0;fontColor=#000000;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1472" y="-1070" width="156" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KgsNd8ml2Oa4zYPfAGWD-7" value="Workflow" style="whiteSpace=wrap;fillColor=#CC00CC;strokeColor=#000000;rounded=1;sketch=0;fontColor=#000000;html=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="KgsNd8ml2Oa4zYPfAGWD-7" value="Workflow" style="whiteSpace=wrap;fillColor=#FF66FF;strokeColor=#000000;rounded=1;sketch=0;fontColor=#000000;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="-1070" width="156" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KgsNd8ml2Oa4zYPfAGWD-8" value="Материалы" style="whiteSpace=wrap;fillColor=#CC00CC;strokeColor=#000000;rounded=1;sketch=0;fontColor=#000000;html=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="KgsNd8ml2Oa4zYPfAGWD-8" value="Материалы" style="whiteSpace=wrap;fillColor=#FF66FF;strokeColor=#000000;rounded=1;sketch=0;fontColor=#000000;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1710" y="-1060" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KgsNd8ml2Oa4zYPfAGWD-9" value="Оборудование" style="whiteSpace=wrap;fillColor=#FF66FF;strokeColor=#000000;rounded=1;sketch=0;fontColor=#000000;html=1;shadow=1;" parent="1" vertex="1">
@@ -790,6 +790,9 @@
         </mxCell>
         <mxCell id="2gq_ey15JJ6coq1PcBot-24" value="Допуски" style="whiteSpace=wrap;fillColor=#FF66FF;strokeColor=#000000;rounded=1;sketch=0;fontColor=#000000;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="2220" y="-1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2gq_ey15JJ6coq1PcBot-26" value="Смены" style="whiteSpace=wrap;fillColor=#FF66FF;strokeColor=#000000;rounded=1;sketch=0;fontColor=#000000;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1482" y="-1219" width="156" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
