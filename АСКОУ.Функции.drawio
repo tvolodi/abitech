@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T03:21:31.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="WXmtABCY4A4Ukpmm2JWO" version="20.0.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-27T03:23:49.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="rSNYX3BVLX8Nw--GpQ2p" version="20.0.3" type="github" pages="3">
   <diagram id="nu44lOmmYdovMivt4aMq" name="Функции">
     <mxGraphModel dx="3213" dy="3221" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -692,7 +692,7 @@
         <mxCell id="2gq_ey15JJ6coq1PcBot-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="873zr_Z2ufvWdLOUmO4q-2" target="2gq_ey15JJ6coq1PcBot-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2gq_ey15JJ6coq1PcBot-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="873zr_Z2ufvWdLOUmO4q-2" target="2gq_ey15JJ6coq1PcBot-3">
+        <mxCell id="2gq_ey15JJ6coq1PcBot-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="873zr_Z2ufvWdLOUmO4q-2" target="2gq_ey15JJ6coq1PcBot-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2gq_ey15JJ6coq1PcBot-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="873zr_Z2ufvWdLOUmO4q-2" target="2gq_ey15JJ6coq1PcBot-5">
@@ -702,6 +702,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2gq_ey15JJ6coq1PcBot-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="873zr_Z2ufvWdLOUmO4q-2" target="2gq_ey15JJ6coq1PcBot-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2gq_ey15JJ6coq1PcBot-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="873zr_Z2ufvWdLOUmO4q-2" target="2gq_ey15JJ6coq1PcBot-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="873zr_Z2ufvWdLOUmO4q-2" value="Наряд-задание&lt;br&gt;(простое)" style="whiteSpace=wrap;fillColor=#FF66FF;strokeColor=#000000;rounded=1;sketch=0;fontColor=#000000;html=1;shadow=1;" parent="1" vertex="1">
@@ -784,6 +787,9 @@
         </mxCell>
         <mxCell id="2gq_ey15JJ6coq1PcBot-21" value="Формирование документа на списание с подотчета" style="whiteSpace=wrap;html=1;fillColor=#FF66FF;strokeColor=#000000;fontColor=#000000;rounded=1;sketch=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="2530" y="-650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2gq_ey15JJ6coq1PcBot-24" value="Допуски" style="whiteSpace=wrap;fillColor=#FF66FF;strokeColor=#000000;rounded=1;sketch=0;fontColor=#000000;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="-1110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
