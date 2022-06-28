@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T08:43:56.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="iTR4UJICiEi3VjMDPDh9" version="20.0.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-06-28T09:55:58.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="JhrmOQtkoVVV0hJ29cem" version="20.0.3" type="github" pages="6">
   <diagram name="Наряд-задание. Однотипное оборудование" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wst9IE9qMWAmo7dUEw3-" name="НЗ. Простое">
-    <mxGraphModel dx="860" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3563" dy="3186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -439,7 +439,7 @@
         <mxCell id="OH_UwLUDFq6uR3hJUdXP-90" value="" style="group" parent="OH_UwLUDFq6uR3hJUdXP-84" vertex="1" connectable="0">
           <mxGeometry x="10" y="36" width="580" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="OH_UwLUDFq6uR3hJUdXP-91" value="&lt;table cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; border=&quot;1&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;№ п/п&lt;/th&gt;&lt;th&gt;Номенклатура&lt;/th&gt;&lt;td&gt;&lt;b&gt;Ед.измерения&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Кол.норма&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Кол.получено&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Кол.использовано&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1525-Ветошь&lt;/td&gt;&lt;td&gt;м2&lt;/td&gt;&lt;td&gt;0,5&lt;/td&gt;&lt;td&gt;0,5&lt;/td&gt;&lt;td&gt;0,0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;2325-Спирт технический&lt;/td&gt;&lt;td&gt;л&lt;/td&gt;&lt;td&gt;0,050&lt;/td&gt;&lt;td&gt;0,050&lt;/td&gt;&lt;td&gt;0,0&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt; " style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#000000;strokeColor=default;fillColor=#FFFFFF;gradientColor=none;gradientDirection=north;" parent="OH_UwLUDFq6uR3hJUdXP-90" vertex="1">
+        <mxCell id="OH_UwLUDFq6uR3hJUdXP-91" value="&lt;table cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; border=&quot;1&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;№ п/п&lt;/th&gt;&lt;th&gt;Номенклатура&lt;/th&gt;&lt;td&gt;&lt;b&gt;Ед.измерения&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Кол.норма&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;&lt;font color=&quot;#cccccc&quot;&gt;Кол.получено&lt;/font&gt;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Кол.использовано&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1525-Ветошь&lt;/td&gt;&lt;td&gt;м2&lt;/td&gt;&lt;td&gt;0,5&lt;/td&gt;&lt;td&gt;0,5&lt;/td&gt;&lt;td&gt;0,0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;2325-Спирт технический&lt;/td&gt;&lt;td&gt;л&lt;/td&gt;&lt;td&gt;0,050&lt;/td&gt;&lt;td&gt;0,050&lt;/td&gt;&lt;td&gt;0,0&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt; " style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#000000;strokeColor=default;fillColor=#FFFFFF;gradientColor=none;gradientDirection=north;" parent="OH_UwLUDFq6uR3hJUdXP-90" vertex="1">
           <mxGeometry width="579.9999999999998" height="94" as="geometry" />
         </mxCell>
         <mxCell id="_XUatzvdbWlpiVQRrfv--3" value="Документы" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" parent="OH_UwLUDFq6uR3hJUdXP-84" vertex="1">
