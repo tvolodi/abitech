@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T04:19:50.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="iFVakWKKg2klDZM6DA7E" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T04:27:48.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="T0jZI5KqZS5eEvTfXol6" version="20.0.3" type="github" pages="2">
   <diagram id="kQEtFm6jpIMlJpdwm5v1" name="DBase">
     <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,6 +63,65 @@
             <mxPoint x="170" y="290" as="sourcePoint" />
             <mxPoint x="170" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="R2Lh-kALoyK3gen6i3oV" name="Operation">
+    <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iFweKk9OtKSdGWdFEtRy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFweKk9OtKSdGWdFEtRy-1" target="iFweKk9OtKSdGWdFEtRy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iFweKk9OtKSdGWdFEtRy-1" value="" style="ellipse;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iFweKk9OtKSdGWdFEtRy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFweKk9OtKSdGWdFEtRy-2" target="iFweKk9OtKSdGWdFEtRy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iFweKk9OtKSdGWdFEtRy-2" value="Датчик снимает показания" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="130" width="185" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9JWYP_5UQWRQcOsXYI41-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFweKk9OtKSdGWdFEtRy-3" target="iFweKk9OtKSdGWdFEtRy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iFweKk9OtKSdGWdFEtRy-3" value="Предварительная обработка &lt;br&gt;на уровне ПО контроллера" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="220" width="185" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iFweKk9OtKSdGWdFEtRy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=35;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFweKk9OtKSdGWdFEtRy-4" target="iFweKk9OtKSdGWdFEtRy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iFweKk9OtKSdGWdFEtRy-4" value="Routine 1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="520" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iFweKk9OtKSdGWdFEtRy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFweKk9OtKSdGWdFEtRy-5" target="iFweKk9OtKSdGWdFEtRy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iFweKk9OtKSdGWdFEtRy-5" value="Routine i" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iFweKk9OtKSdGWdFEtRy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFweKk9OtKSdGWdFEtRy-10" target="iFweKk9OtKSdGWdFEtRy-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iFweKk9OtKSdGWdFEtRy-10" value="Обработка показаний &lt;br&gt;на стороне IOT application server&amp;nbsp;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="400" width="185" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iFweKk9OtKSdGWdFEtRy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFweKk9OtKSdGWdFEtRy-11" target="iFweKk9OtKSdGWdFEtRy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iFweKk9OtKSdGWdFEtRy-11" value="Routine i" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="520" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iFweKk9OtKSdGWdFEtRy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=35;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iFweKk9OtKSdGWdFEtRy-12" target="iFweKk9OtKSdGWdFEtRy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iFweKk9OtKSdGWdFEtRy-12" value="Routine 1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iFweKk9OtKSdGWdFEtRy-15" value="Журналирование показаний &lt;br&gt;в таблицу IODeviceLogs" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="400" width="185" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
