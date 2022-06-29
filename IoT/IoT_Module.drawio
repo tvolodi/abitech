@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T04:27:48.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="T0jZI5KqZS5eEvTfXol6" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-29T04:30:27.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="xjH1p9g0Q4l1RpfBGwIV" version="20.0.3" type="github" pages="2">
   <diagram id="kQEtFm6jpIMlJpdwm5v1" name="DBase">
     <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,6 +122,31 @@
         </mxCell>
         <mxCell id="iFweKk9OtKSdGWdFEtRy-15" value="Журналирование показаний &lt;br&gt;в таблицу IODeviceLogs" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="400" width="185" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9JWYP_5UQWRQcOsXYI41-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9JWYP_5UQWRQcOsXYI41-2" target="iFweKk9OtKSdGWdFEtRy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9JWYP_5UQWRQcOsXYI41-6" value="Подписка на события" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9JWYP_5UQWRQcOsXYI41-5">
+          <mxGeometry x="0.1542" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9JWYP_5UQWRQcOsXYI41-2" value="Complex Event Processor" style="shape=folder;fontStyle=1;tabWidth=160;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="660" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9JWYP_5UQWRQcOsXYI41-7" value="Другие модули" style="shape=folder;fontStyle=1;tabWidth=160;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="660" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9JWYP_5UQWRQcOsXYI41-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9JWYP_5UQWRQcOsXYI41-7" target="iFweKk9OtKSdGWdFEtRy-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="670" as="sourcePoint" />
+            <mxPoint x="385" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9JWYP_5UQWRQcOsXYI41-9" value="Подписка на события" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9JWYP_5UQWRQcOsXYI41-8">
+          <mxGeometry x="0.1542" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
