@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T08:57:59.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="BWdyyeFwG0lzLkEdKYPN" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-01T09:15:55.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="nq355ED2FiX2ON8NBoHt" version="20.0.4" type="github">
   <diagram id="El7ThqeAKEAEqX5Xljgw" name="Page-1">
     <mxGraphModel dx="860" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="J-_hszuNko_sxPINMym0-4" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+        <mxCell id="J-_hszuNko_sxPINMym0-4" value="Формирование заявки на обслуживание" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="-370" width="750" height="450" as="geometry" />
         </mxCell>
         <mxCell id="J-_hszuNko_sxPINMym0-5" value="Механик&lt;br&gt;оборудования" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="J-_hszuNko_sxPINMym0-4">
