@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T08:56:12.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="kmNEixy9Re79pEy82urw" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-01T08:57:59.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="BWdyyeFwG0lzLkEdKYPN" version="20.0.4" type="github">
   <diagram id="El7ThqeAKEAEqX5Xljgw" name="Page-1">
     <mxGraphModel dx="860" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
         <mxCell id="J-_hszuNko_sxPINMym0-7" value="Планировщик" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="J-_hszuNko_sxPINMym0-4">
           <mxGeometry x="20" y="200" width="730" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="J-_hszuNko_sxPINMym0-17" value="Запуск в работу наряд-задания на обслуживание в" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="J-_hszuNko_sxPINMym0-7">
+        <mxCell id="J-_hszuNko_sxPINMym0-17" value="Запуск в работу наряд-задания на обслуживание" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="J-_hszuNko_sxPINMym0-7">
           <mxGeometry x="375" y="25" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="J-_hszuNko_sxPINMym0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="J-_hszuNko_sxPINMym0-4" source="J-_hszuNko_sxPINMym0-14" target="J-_hszuNko_sxPINMym0-17">
