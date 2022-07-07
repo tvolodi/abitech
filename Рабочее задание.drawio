@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T10:04:26.475Z" agent="5.0 (Windows)" etag="jX_s5Yws1ZwBi3a0U4nv" version="20.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-07T10:06:37.237Z" agent="5.0 (Windows)" etag="2vg_lKuqzalaxDwMWARN" version="20.0.4" type="github" pages="6">
   <diagram name="Наряд-задание. Однотипное оборудование" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="782" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -926,14 +926,26 @@
         <mxCell id="czQcwNAwKMecxrqGE2xv-2" value="&lt;div&gt;Выбираются переходы между статусами, где начальный статус равен текущему статусу&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1502.5" y="55" width="145" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="czQcwNAwKMecxrqGE2xv-6" value="Следующий статус" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="czQcwNAwKMecxrqGE2xv-3" target="czQcwNAwKMecxrqGE2xv-5">
+        <mxCell id="czQcwNAwKMecxrqGE2xv-6" value="Следующий переход статусов" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="czQcwNAwKMecxrqGE2xv-3" target="czQcwNAwKMecxrqGE2xv-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="czQcwNAwKMecxrqGE2xv-3" value="Обход списка переходов статусов для определения конечного списка с учетом доступов" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="1491.25" y="160" width="167.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="czQcwNAwKMecxrqGE2xv-5" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+        <mxCell id="czQcwNAwKMecxrqGE2xv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="czQcwNAwKMecxrqGE2xv-5" target="czQcwNAwKMecxrqGE2xv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="czQcwNAwKMecxrqGE2xv-5" value="Для перехода указан список работников" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="1515" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="czQcwNAwKMecxrqGE2xv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="czQcwNAwKMecxrqGE2xv-8" target="czQcwNAwKMecxrqGE2xv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="czQcwNAwKMecxrqGE2xv-8" value="" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="360" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="czQcwNAwKMecxrqGE2xv-10" value="Проверка: пользователь входит в список работников" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="420" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
