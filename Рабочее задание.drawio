@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T11:38:39.581Z" agent="5.0 (Windows)" etag="0_XIMP72MzbPRKnif5Oc" version="20.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-07T11:50:09.562Z" agent="5.0 (Windows)" etag="nU0w-X4zKjdSzKwsP-8o" version="20.0.4" type="github" pages="6">
   <diagram name="Наряд-задание. Однотипное оборудование" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="782" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -987,7 +987,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="czQcwNAwKMecxrqGE2xv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="czQcwNAwKMecxrqGE2xv-20" target="czQcwNAwKMecxrqGE2xv-29">
+        <mxCell id="czQcwNAwKMecxrqGE2xv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="czQcwNAwKMecxrqGE2xv-20" target="czQcwNAwKMecxrqGE2xv-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="czQcwNAwKMecxrqGE2xv-31" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="czQcwNAwKMecxrqGE2xv-30">
@@ -1008,7 +1008,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="czQcwNAwKMecxrqGE2xv-29" value="Роль с разрешением для перехода в статус" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="830" width="140" height="60" as="geometry" />
+          <mxGeometry x="1260" y="955" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="czQcwNAwKMecxrqGE2xv-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="czQcwNAwKMecxrqGE2xv-34" target="czQcwNAwKMecxrqGE2xv-35">
           <mxGeometry relative="1" as="geometry" />
@@ -1018,26 +1018,41 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="czQcwNAwKMecxrqGE2xv-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="czQcwNAwKMecxrqGE2xv-34" target="czQcwNAwKMecxrqGE2xv-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="czQcwNAwKMecxrqGE2xv-34" value="" style="rhombus;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="910" width="30" height="30" as="geometry" />
+          <mxGeometry x="1315" y="1035" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="czQcwNAwKMecxrqGE2xv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="czQcwNAwKMecxrqGE2xv-35" target="czQcwNAwKMecxrqGE2xv-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="czQcwNAwKMecxrqGE2xv-35" value="У пользователя рол, которая в списке разрешений" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="1345" y="960" width="140" height="60" as="geometry" />
+        <mxCell id="czQcwNAwKMecxrqGE2xv-35" value="У пользователя роль, которая в списке разрешений" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="1345" y="1085" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="czQcwNAwKMecxrqGE2xv-40" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="czQcwNAwKMecxrqGE2xv-36" target="czQcwNAwKMecxrqGE2xv-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="czQcwNAwKMecxrqGE2xv-36" value="" style="rhombus;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="1060" width="30" height="30" as="geometry" />
+          <mxGeometry x="1400" y="1185" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="czQcwNAwKMecxrqGE2xv-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="czQcwNAwKMecxrqGE2xv-39" target="czQcwNAwKMecxrqGE2xv-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="czQcwNAwKMecxrqGE2xv-39" value="Помечаем статус как доступный" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="1100" width="140" height="60" as="geometry" />
+          <mxGeometry x="1440" y="1225" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="czQcwNAwKMecxrqGE2xv-44" value="Проверяем, если статус помечен, как доступный, то удаляем из доступных" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="1171" y="960" width="140" height="70" as="geometry" />
+        <mxCell id="czQcwNAwKMecxrqGE2xv-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="czQcwNAwKMecxrqGE2xv-44" target="czQcwNAwKMecxrqGE2xv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="czQcwNAwKMecxrqGE2xv-44" value="Удаление статуса из доступных (если он там есть)" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1085" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="czQcwNAwKMecxrqGE2xv-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="czQcwNAwKMecxrqGE2xv-46" target="czQcwNAwKMecxrqGE2xv-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="czQcwNAwKMecxrqGE2xv-46" value="Обработка списка ролей" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;arcSize=10;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="870" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
