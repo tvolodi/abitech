@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T08:17:06.498Z" agent="5.0 (Windows)" etag="A5cc02YAytYHp2OfcL6E" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T08:45:32.269Z" agent="5.0 (Windows)" etag="AP6ZjDLYzn2vZZRNbpEu" version="20.0.4" type="github" pages="2">
   <diagram id="eFgsTeEYelKQ_ePK37qf" name="Возможные статусы">
     <mxGraphModel dx="812" dy="1852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -213,6 +213,47 @@
         </mxCell>
         <mxCell id="c5JYzMj96R1MtIDLFCYo-59" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1465" y="500" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LXSazGGZcjS6EqAl17jo" name="WorkflowTypes">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aT0I-s7yTr1coh-lzJiM-1" value="Типы маршрутов документов" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="1220" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="aT0I-s7yTr1coh-lzJiM-2" value="&lt;table style=&quot;font-size:1em;width:100%;height:100%;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot; border=&quot;1&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;Код&lt;/th&gt;&lt;th&gt;Описание&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;WO_SIMPLE&lt;br&gt;&lt;/td&gt;&lt;td&gt;Наряд-задание простое&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&quot;#660033&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;SAFETY_INSPECTION&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&quot;#660033&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;Инспекция по безопасности&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ASSETS_INVENTORY&lt;br&gt;&lt;/td&gt;&lt;td&gt;Задание на инвентаризацию&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt; " style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aT0I-s7yTr1coh-lzJiM-4" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="100" width="350" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="aT0I-s7yTr1coh-lzJiM-5" value="Переходы между статусами" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="aT0I-s7yTr1coh-lzJiM-4">
+          <mxGeometry x="5" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aT0I-s7yTr1coh-lzJiM-6" value="&lt;table style=&quot;font-size:1em;width:100%;height:100%;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot; border=&quot;1&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;Текущий статус&lt;br&gt;&lt;/th&gt;&lt;th&gt;Следующий статус&lt;br&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Новый&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Новый&lt;br&gt;&lt;/td&gt;&lt;td&gt;Запланирован&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Новый&lt;br&gt;&lt;/td&gt;&lt;td&gt;Удален&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&quot;#660066&quot;&gt;&lt;b&gt;Запланирован&lt;/b&gt;&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&quot;#660066&quot;&gt;&lt;b&gt;К исполнению&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Запланирован&lt;br&gt;&lt;/td&gt;&lt;td&gt;Отменен&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;К исполнению&lt;br&gt;&lt;/td&gt;&lt;td&gt;В работе&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;К исполнению&lt;br&gt;&lt;/td&gt;&lt;td&gt;Отменен&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;В работе&lt;br&gt;&lt;/td&gt;&lt;td&gt;Выполнен&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;В работе&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Отменен&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Выполнен&lt;/td&gt;&lt;td&gt;На проверке&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;На проверке&lt;br&gt;&lt;/td&gt;&lt;td&gt;Закрыт&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt; " style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1" vertex="1" parent="aT0I-s7yTr1coh-lzJiM-4">
+          <mxGeometry x="15" y="40" width="320" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="aT0I-s7yTr1coh-lzJiM-7" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="100" width="350" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aT0I-s7yTr1coh-lzJiM-8" value="Роли" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="aT0I-s7yTr1coh-lzJiM-7">
+          <mxGeometry x="5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aT0I-s7yTr1coh-lzJiM-9" value="&lt;table style=&quot;font-size:1em;width:100%;height:100%;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot; border=&quot;1&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;Роль&lt;br&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Планировщик&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt; " style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1" vertex="1" parent="aT0I-s7yTr1coh-lzJiM-7">
+          <mxGeometry x="15" y="40" width="320" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aT0I-s7yTr1coh-lzJiM-10" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="310" width="350" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aT0I-s7yTr1coh-lzJiM-11" value="Работники" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="aT0I-s7yTr1coh-lzJiM-10">
+          <mxGeometry x="5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aT0I-s7yTr1coh-lzJiM-12" value="&lt;table style=&quot;font-size:1em;width:100%;height:100%;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot; border=&quot;1&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;Роль&lt;br&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Планировщик&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt; " style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1" vertex="1" parent="aT0I-s7yTr1coh-lzJiM-10">
+          <mxGeometry x="15" y="40" width="320" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
