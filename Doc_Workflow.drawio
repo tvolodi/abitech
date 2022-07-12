@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T04:56:15.202Z" agent="5.0 (Windows)" etag="fSNVekKqgW0dobH8lcR_" version="20.0.4" type="github">
-  <diagram id="eFgsTeEYelKQ_ePK37qf" name="Page-1">
-    <mxGraphModel dx="172" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-07-12T08:17:06.498Z" agent="5.0 (Windows)" etag="A5cc02YAytYHp2OfcL6E" version="20.0.4" type="github">
+  <diagram id="eFgsTeEYelKQ_ePK37qf" name="Возможные статусы">
+    <mxGraphModel dx="812" dy="1852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
