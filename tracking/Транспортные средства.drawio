@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T05:58:46.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="76yUWagiWICXf28GFOov" version="20.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T06:01:32.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="LlG4kah8OffDDbV03jTW" version="20.2.1" type="github">
   <diagram id="E58-8sNMrBU1PCXy-_dO" name="Page-1">
-    <mxGraphModel dx="2015" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1394" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,13 +41,25 @@
           <mxGeometry x="5" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o2vf6L2vt3NqYXLP3TD3-23" value="Ж/д транспорт" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="o2vf6L2vt3NqYXLP3TD3-14">
-          <mxGeometry x="20" y="50" width="100" height="40" as="geometry" />
+          <mxGeometry x="40" y="50" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o2vf6L2vt3NqYXLP3TD3-24" value="Локомотивы" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="o2vf6L2vt3NqYXLP3TD3-14">
-          <mxGeometry x="40" y="100" width="100" height="40" as="geometry" />
+          <mxGeometry x="60" y="100" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o2vf6L2vt3NqYXLP3TD3-25" value="Вагоны" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="o2vf6L2vt3NqYXLP3TD3-14">
-          <mxGeometry x="40" y="150" width="100" height="40" as="geometry" />
+          <mxGeometry x="60" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2vf6L2vt3NqYXLP3TD3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#0000FF;exitX=0.462;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="o2vf6L2vt3NqYXLP3TD3-14" source="o2vf6L2vt3NqYXLP3TD3-31" target="o2vf6L2vt3NqYXLP3TD3-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o2vf6L2vt3NqYXLP3TD3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#0000FF;endArrow=none;endFill=0;" edge="1" parent="o2vf6L2vt3NqYXLP3TD3-14" source="o2vf6L2vt3NqYXLP3TD3-31" target="o2vf6L2vt3NqYXLP3TD3-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o2vf6L2vt3NqYXLP3TD3-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#0000FF;endArrow=none;endFill=0;exitX=0.464;exitY=1.041;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="o2vf6L2vt3NqYXLP3TD3-14" source="o2vf6L2vt3NqYXLP3TD3-31" target="o2vf6L2vt3NqYXLP3TD3-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o2vf6L2vt3NqYXLP3TD3-31" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#0000FF;strokeColor=#999999;gradientColor=none;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;labelBackgroundColor=#FFFFFF;" vertex="1" parent="o2vf6L2vt3NqYXLP3TD3-14">
+          <mxGeometry x="5" y="62.5" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="o2vf6L2vt3NqYXLP3TD3-17" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.splitter;strokeColor=#999999;direction=north;" vertex="1" parent="1">
           <mxGeometry x="880" y="40" width="10" height="580" as="geometry" />
