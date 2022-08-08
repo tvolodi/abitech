@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T10:54:43.466Z" agent="5.0 (Windows)" etag="151Z4J1AOzSAqkjg4M15" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-08T11:00:19.461Z" agent="5.0 (Windows)" etag="bJgr4sKtyCI1f9efT9Ye" version="20.2.3" type="github">
   <diagram id="xZS1iqDsfLLNsFTqZSFf" name="Страница 1">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,12 @@
         </mxCell>
         <mxCell id="mITxjE_Xkw7kHsZkBcQx-2" value="+Узел&#xa;+ТМЦ&#xa;+Ед.измерения&#xa;+Количество&#xa;+Номер думпкара&#xa;+Ответственный&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="mITxjE_Xkw7kHsZkBcQx-1">
           <mxGeometry y="30" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mITxjE_Xkw7kHsZkBcQx-3" value="ВУ-14" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="350" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="mITxjE_Xkw7kHsZkBcQx-4" value="+Месяц&#xa;+Число&#xa;+№ Поезда&#xa;+Пути&#xa;+Число вагонов&#xa;+№ вагона&#xa;+Наименование груза&#xa;+Часы + минуты предъявления к техобслуживанию&#xa;+Подпись дежурного по станции&#xa;+Подпись мастера смены&#xa;+Часы + минуты окончания технического обслуживания&#xa;+№ вагона, отцепленного от поезда&#xa;+Подпись мастера смены&#xa;+Подпись дежурного по станции&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="mITxjE_Xkw7kHsZkBcQx-3">
+          <mxGeometry y="30" width="350" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
