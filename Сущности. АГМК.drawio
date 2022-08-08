@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T11:05:43.796Z" agent="5.0 (Windows)" etag="18mZ1g-a6-c1sgrys2DH" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-08T11:08:21.028Z" agent="5.0 (Windows)" etag="1uGPR1L_sD-LGCdmizvs" version="20.2.3" type="github">
   <diagram id="xZS1iqDsfLLNsFTqZSFf" name="Страница 1">
     <mxGraphModel dx="981" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,16 @@
         <mxCell id="mITxjE_Xkw7kHsZkBcQx-10" value="Дефектная ведомость. Работы" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="170" y="430" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="mITxjE_Xkw7kHsZkBcQx-11" value="+Ссылка на группу работ&#xa;+Название работы" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="mITxjE_Xkw7kHsZkBcQx-10">
+        <mxCell id="mITxjE_Xkw7kHsZkBcQx-11" value="+Ссылка на группу работ&#xa;+Название работы&#xa;+Фамилия исполнителя&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="mITxjE_Xkw7kHsZkBcQx-10">
+          <mxGeometry y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mITxjE_Xkw7kHsZkBcQx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mITxjE_Xkw7kHsZkBcQx-13" target="mITxjE_Xkw7kHsZkBcQx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mITxjE_Xkw7kHsZkBcQx-13" value="Дефектная ведомость. ТМЦ/Материалы/ГСМ" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="590" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mITxjE_Xkw7kHsZkBcQx-14" value="+Ссылка на группу работ&#xa;+Ссылка на справочник номенклатур ТМЦ&#xa;+Количество&#xa;+Ссылка на справочник единиц измерения&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="mITxjE_Xkw7kHsZkBcQx-13">
           <mxGeometry y="40" width="260" height="80" as="geometry" />
         </mxCell>
       </root>
