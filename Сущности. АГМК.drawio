@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T11:00:19.461Z" agent="5.0 (Windows)" etag="bJgr4sKtyCI1f9efT9Ye" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-08T11:05:43.796Z" agent="5.0 (Windows)" etag="18mZ1g-a6-c1sgrys2DH" version="20.2.3" type="github">
   <diagram id="xZS1iqDsfLLNsFTqZSFf" name="Страница 1">
-    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,10 +11,34 @@
           <mxGeometry y="30" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mITxjE_Xkw7kHsZkBcQx-3" value="ВУ-14" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="120" y="440" width="350" height="250" as="geometry" />
+          <mxGeometry x="540" y="430" width="350" height="250" as="geometry" />
         </mxCell>
         <mxCell id="mITxjE_Xkw7kHsZkBcQx-4" value="+Месяц&#xa;+Число&#xa;+№ Поезда&#xa;+Пути&#xa;+Число вагонов&#xa;+№ вагона&#xa;+Наименование груза&#xa;+Часы + минуты предъявления к техобслуживанию&#xa;+Подпись дежурного по станции&#xa;+Подпись мастера смены&#xa;+Часы + минуты окончания технического обслуживания&#xa;+№ вагона, отцепленного от поезда&#xa;+Подпись мастера смены&#xa;+Подпись дежурного по станции&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="mITxjE_Xkw7kHsZkBcQx-3">
           <mxGeometry y="30" width="350" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="mITxjE_Xkw7kHsZkBcQx-5" value="Дефектная ведомость" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="170" y="80" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mITxjE_Xkw7kHsZkBcQx-6" value="+№ вагона&#xa;+Грузоподъемность&#xa;+Материал кузова&#xa;+Дата последнего планового ремонта&#xa;+Место последнего планового ремонта&#xa;+Вид последнего планового ремонта&#xa;+Время начала ремонта Дата+время&#xa;+Время окончания ремонта Дата+время&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="mITxjE_Xkw7kHsZkBcQx-5">
+          <mxGeometry y="30" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mITxjE_Xkw7kHsZkBcQx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mITxjE_Xkw7kHsZkBcQx-7" target="mITxjE_Xkw7kHsZkBcQx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mITxjE_Xkw7kHsZkBcQx-7" value="Дефектная ведомость. Группы работ" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mITxjE_Xkw7kHsZkBcQx-8" value="+Ссылка на дефектную ведомость&#xa;+Название ходовой части" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="mITxjE_Xkw7kHsZkBcQx-7">
+          <mxGeometry y="40" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mITxjE_Xkw7kHsZkBcQx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mITxjE_Xkw7kHsZkBcQx-10" target="mITxjE_Xkw7kHsZkBcQx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mITxjE_Xkw7kHsZkBcQx-10" value="Дефектная ведомость. Работы" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="430" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mITxjE_Xkw7kHsZkBcQx-11" value="+Ссылка на группу работ&#xa;+Название работы" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="mITxjE_Xkw7kHsZkBcQx-10">
+          <mxGeometry y="40" width="260" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
