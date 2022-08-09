@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T03:42:36.150Z" agent="5.0 (Windows)" etag="fhF1ZUR0M3Zk0HIMwG0H" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T03:46:53.892Z" agent="5.0 (Windows)" etag="IwdN69G-RlC5Li1sOM6u" version="20.2.2" type="github">
   <diagram id="xZS1iqDsfLLNsFTqZSFf" name="Страница 1">
-    <mxGraphModel dx="1640" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1301" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,6 +99,12 @@
         </mxCell>
         <mxCell id="L_cFTnBmtnNLdo1k66Zd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L_cFTnBmtnNLdo1k66Zd-10" target="L_cFTnBmtnNLdo1k66Zd-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L_cFTnBmtnNLdo1k66Zd-12" value="Форма ВУ-51&#xa;Натурный колесный листок" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=70;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1001" y="1910" width="240" height="221" as="geometry" />
+        </mxCell>
+        <mxCell id="L_cFTnBmtnNLdo1k66Zd-13" value="+Вагонное депо, завод&#xa;+Дата поступления&#xa;+№ колесной пары&#xa;+Тип&#xa;+Диаметр по кругу катания колеса&#xa;+Дата и пункт последнего формирования&#xa;+Последнего полного &#xa;&#xa;освидетельствования и монтаж букс &#xa;&#xa;роликовых подшипников&#xa;+Выкачена из под вагон&#xa;+Поступила от ВЧД, ВКМ, завод, п&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="L_cFTnBmtnNLdo1k66Zd-12">
+          <mxGeometry y="70" width="240" height="151" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
