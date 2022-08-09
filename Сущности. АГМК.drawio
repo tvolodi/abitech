@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T03:42:23.689Z" agent="5.0 (Windows)" etag="2RFlOSlnfpcbA9wigLcL" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T03:42:36.150Z" agent="5.0 (Windows)" etag="fhF1ZUR0M3Zk0HIMwG0H" version="20.2.2" type="github">
   <diagram id="xZS1iqDsfLLNsFTqZSFf" name="Страница 1">
     <mxGraphModel dx="1640" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,6 +96,9 @@
         </mxCell>
         <mxCell id="L_cFTnBmtnNLdo1k66Zd-10" value="+№ колесной пары&#xa;+Тип колесной пары&#xa;+Состояние (неисправная, &#xa;нового формирования, &#xa;отремонтированная, &#xa;неисправная, &#xa;требуемый ремонт)&#xa;+Прейскурантная стоимость кол/пары&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="L_cFTnBmtnNLdo1k66Zd-9">
           <mxGeometry y="70" width="240" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="L_cFTnBmtnNLdo1k66Zd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L_cFTnBmtnNLdo1k66Zd-10" target="L_cFTnBmtnNLdo1k66Zd-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
