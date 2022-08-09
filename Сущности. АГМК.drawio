@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T03:42:08.896Z" agent="5.0 (Windows)" etag="7o3ZPL4YG7aUxedZpMKd" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T03:42:23.689Z" agent="5.0 (Windows)" etag="2RFlOSlnfpcbA9wigLcL" version="20.2.2" type="github">
   <diagram id="xZS1iqDsfLLNsFTqZSFf" name="Страница 1">
     <mxGraphModel dx="1640" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="L_cFTnBmtnNLdo1k66Zd-9" value="Позиции табличной части формы ВУ-50" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=70;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1340" y="1609" width="240" height="221" as="geometry" />
         </mxCell>
-        <mxCell id="L_cFTnBmtnNLdo1k66Zd-10" value="+№ колесной пары&#xa;+Тип колесной пары&#xa;+Состояние (неисправная, &#xa;&#xa;нового формирования, &#xa;&#xa;отремонтированная, &#xa;&#xa;неисправная, &#xa;&#xa;требуемый ремонт)&#xa;+Прейскурантная стоимость кол/пары&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="L_cFTnBmtnNLdo1k66Zd-9">
+        <mxCell id="L_cFTnBmtnNLdo1k66Zd-10" value="+№ колесной пары&#xa;+Тип колесной пары&#xa;+Состояние (неисправная, &#xa;нового формирования, &#xa;отремонтированная, &#xa;неисправная, &#xa;требуемый ремонт)&#xa;+Прейскурантная стоимость кол/пары&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="L_cFTnBmtnNLdo1k66Zd-9">
           <mxGeometry y="70" width="240" height="151" as="geometry" />
         </mxCell>
       </root>
