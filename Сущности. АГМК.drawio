@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T08:55:51.921Z" agent="5.0 (Windows)" etag="sNGTuUNfvYL3oa-QNfOj" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T08:59:11.455Z" agent="5.0 (Windows)" etag="pVPj2goyjlZrvSLyH68R" version="20.2.2" type="github">
   <diagram id="xZS1iqDsfLLNsFTqZSFf" name="Страница 1">
-    <mxGraphModel dx="1808" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1617" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,6 +123,12 @@
         </mxCell>
         <mxCell id="L_cFTnBmtnNLdo1k66Zd-21" value="+Расход&#xa; +Сторона колесной пары&#xa;    +Размеры колесной пары (мм)&#xa;        +Длина&#xa;        +Диаметр&#xa;        +В предподступичной части&#xa;        +В подступичной части&#xa;        +Посередине&#xa;        +Колеса&#xa;            +Толщина обода&#xa;            +Прокат&#xa;            +Диаметр по кругу катания&#xa;            +Расстояние м/у врутришн. гранями&#xa;+Выполненный ремонт&#xa;    +Смена оси&#xa;    +Замена цельнокатанных колес&#xa;    +Сформировано из старогодных элементов&#xa;    +Полная ревизия роликовых букс с обточкой поверхности катания&#xa;.......&#xa;    +Прочие работы&#xa;+Дата освидетельствования кол.пары&#xa;+Подписи...&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="L_cFTnBmtnNLdo1k66Zd-20">
           <mxGeometry y="40" width="400" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="L_cFTnBmtnNLdo1k66Zd-22" value="Журнал испытаний запасных резерв. и главных частей" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=70;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="110" width="240" height="221" as="geometry" />
+        </mxCell>
+        <mxCell id="L_cFTnBmtnNLdo1k66Zd-23" value="+Дата&#xa;+Тип прибора (условно)&#xa;+Заводской номер прибора&#xa;+Год и месяц выпуска&#xa;+Время зарядки золотниковой камеры и запасн.резерв.1&#xa;+Время зарядки золотниковой камеры и запасн.резерв.2&#xa;+Отпуск....&#xa;&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#003300;" vertex="1" parent="L_cFTnBmtnNLdo1k66Zd-22">
+          <mxGeometry y="70" width="240" height="151" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
