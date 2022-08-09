@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T07:08:53.084Z" agent="5.0 (Windows)" etag="AeP5_bO2hB7gyaFODB40" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T08:27:26.209Z" agent="5.0 (Windows)" etag="9t6XZ_XnNnA8IalTGHLA" version="20.2.2" type="github">
   <diagram id="xZS1iqDsfLLNsFTqZSFf" name="Страница 1">
     <mxGraphModel dx="1640" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,11 +112,11 @@
         <mxCell id="L_cFTnBmtnNLdo1k66Zd-16" value="+Приход&#xa;&#xa;    +№ п/п&#xa;    +Дата поступления&#xa;    +Источник поступления колесной пары &#xa;(станция или вагон)&#xa;    +Характеристика&#xa;        +Тип&#xa;        +№ колесной пары&#xa;        +№ плавки оси&#xa;        +Дата изготовления оси&#xa;        +Пункт изготовления оси&#xa;        +Дата последнего формирования&#xa;        +Пункт последнего формирования&#xa;        +Дата последнего освидетельствования&#xa;        +Пункт послед...&#xa;        +Правое: Диаметр по кругу катания&#xa;        +Левое: Диаметр...&#xa;        +Дата отправки или подкатки под вагон&#xa;    +Назначение отправки оси &#xa;(станция или вагон)&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="L_cFTnBmtnNLdo1k66Zd-15">
           <mxGeometry y="40" width="260" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="L_cFTnBmtnNLdo1k66Zd-17" value="ВУ 68Ремонт торомозов (?)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="995.5" y="2600" width="260" height="390" as="geometry" />
+        <mxCell id="L_cFTnBmtnNLdo1k66Zd-17" value="ВУ 68 Ремонт торомозов (?)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="995.5" y="2600" width="334.5" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="L_cFTnBmtnNLdo1k66Zd-18" value="+Дата ремонта тормозов&#xa;+№ вагонов&#xa;    +№ п/п&#xa;    +Дата поступления&#xa;    +Источник поступления колесной пары &#xa;(станция или вагон)&#xa;    +Характеристика&#xa;        +Тип&#xa;        +№ колесной пары&#xa;        +№ плавки оси&#xa;        +Дата изготовления оси&#xa;        +Пункт изготовления оси&#xa;        +Дата последнего формирования&#xa;        +Пункт последнего формирования&#xa;        +Дата последнего освидетельствования&#xa;        +Пункт послед...&#xa;        +Правое: Диаметр по кругу катания&#xa;        +Левое: Диаметр...&#xa;        +Дата отправки или подкатки под вагон&#xa;    +Назначение отправки оси &#xa;(станция или вагон)&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="L_cFTnBmtnNLdo1k66Zd-17">
-          <mxGeometry y="40" width="260" height="350" as="geometry" />
+        <mxCell id="L_cFTnBmtnNLdo1k66Zd-18" value="+Дата ремонта тормозов&#xa;+№ вагонов&#xa;+Тип воздухораспределителя&#xa;+№ воздухораспределителя&#xa;+Дата последнего планового ремонта&#xa;+Место последнего ремонта&#xa;+Плотность после ремонта - воздухопровода&#xa;+Плотность после ремонта - тормозной цилиндр&#xa;+Давление в тормозном цилиндре на режиме - груженый&#xa;+... среднем&#xa;+... порожнем&#xa;+Дата испытания запасного резервуара&#xa;+Подписи лиц сдающего&#xa;+Подписи лиц принимающего" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="L_cFTnBmtnNLdo1k66Zd-17">
+          <mxGeometry y="40" width="334.5" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
