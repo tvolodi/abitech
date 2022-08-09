@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T04:38:22.555Z" agent="5.0 (Windows)" etag="_aE5TSwPRuYu-vJDBQTu" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T04:38:31.779Z" agent="5.0 (Windows)" etag="bWEylrzhk1sZXrlHK9Cx" version="20.2.2" type="github">
   <diagram id="xZS1iqDsfLLNsFTqZSFf" name="Страница 1">
     <mxGraphModel dx="1808" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="L_cFTnBmtnNLdo1k66Zd-15" value="ВУ 53" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1340" y="1910" width="260" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="L_cFTnBmtnNLdo1k66Zd-16" value="+Приход&#xa;&#xa;    +№ п/п&#xa;    +Дата поступления&#xa;    +Источник поступления колесной пары &#xa;(станция или вагон)&#xa;    +Характеристика&#xa;        +Тип&#xa;        +№ колесной пары&#xa;        +№ плавки оси&#xa;        +Дата изготовления оси&#xa;        +Пункт изготовления оси&#xa;        +Дата последнего формирования&#xa;        +Пункт последнего формирования&#xa;        +Дата последнего освидетельствования&#xa;        +Пункт послед...&#xa;        +Правое: Диаметр по кругу катания&#xa;        +Левое: Диаметр...&#xa;        +Дата отправки или подкатки под вагон&#xa;    +Назначение отправки оси &#xa;(станция или вагон)&#xa;        &#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="L_cFTnBmtnNLdo1k66Zd-15">
+        <mxCell id="L_cFTnBmtnNLdo1k66Zd-16" value="+Приход&#xa;&#xa;    +№ п/п&#xa;    +Дата поступления&#xa;    +Источник поступления колесной пары &#xa;(станция или вагон)&#xa;    +Характеристика&#xa;        +Тип&#xa;        +№ колесной пары&#xa;        +№ плавки оси&#xa;        +Дата изготовления оси&#xa;        +Пункт изготовления оси&#xa;        +Дата последнего формирования&#xa;        +Пункт последнего формирования&#xa;        +Дата последнего освидетельствования&#xa;        +Пункт послед...&#xa;        +Правое: Диаметр по кругу катания&#xa;        +Левое: Диаметр...&#xa;        +Дата отправки или подкатки под вагон&#xa;    +Назначение отправки оси &#xa;(станция или вагон)&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="L_cFTnBmtnNLdo1k66Zd-15">
           <mxGeometry y="40" width="260" height="350" as="geometry" />
         </mxCell>
       </root>
