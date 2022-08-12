@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T09:36:22.085Z" agent="5.0 (Windows)" etag="ljGQWOf5XDlNEmetq9ch" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-12T09:36:51.496Z" agent="5.0 (Windows)" etag="qdhLMQwa_BxY59mrecr1" version="20.2.2" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="1705" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1451" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,12 +204,12 @@
         <mxCell id="5jPzE2AC7TKcDfSd6P9n-14" value="Исполняется" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
           <mxGeometry x="645" y="120" width="250" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="Статус" placeholders="1" name="Variable" id="5jPzE2AC7TKcDfSd6P9n-15">
+        <UserObject label="Рабочий процесс" placeholders="1" name="Variable" id="5jPzE2AC7TKcDfSd6P9n-15">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1" vertex="1" parent="1">
-            <mxGeometry x="480" y="104" width="95" height="20" as="geometry" />
+            <mxGeometry x="480" y="104" width="220" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="5jPzE2AC7TKcDfSd6P9n-16" value="Исполняется" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+        <mxCell id="5jPzE2AC7TKcDfSd6P9n-16" value="Стандартная инспекция" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
           <mxGeometry x="480" y="125" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
