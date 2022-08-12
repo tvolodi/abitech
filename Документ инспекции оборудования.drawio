@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T11:23:56.902Z" agent="5.0 (Windows)" etag="sMb1ciuoth3kqEe6jMpP" version="20.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-12T11:33:14.599Z" agent="5.0 (Windows)" etag="K8G3OVw8CJ-lX97tGrTF" version="20.2.2" type="github" pages="2">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="2454" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -418,6 +418,58 @@
         <mxCell id="8yjtcqBFSqYt93M6oK_Y-67" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
           <mxGeometry x="1230" y="905" width="380" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-68" value="Дефектоскопист" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="479" y="1356" width="320" height="34" as="geometry" />
+        </mxCell>
+        <UserObject label="1" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-69">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="425" y="1356" width="30" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-71" value="Abcd Efgh" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="810" y="1356" width="210" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Да" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-72">
+          <mxCell style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" vertex="1" parent="1">
+            <mxGeometry x="1029" y="1356" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="№ п/п" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-73">
+          <mxCell style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="425" y="1320" width="44" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Должность" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-74">
+          <mxCell style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="479" y="1320" width="320" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Работник" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-76">
+          <mxCell style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="810" y="1320" width="210" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Согласовано" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-77">
+          <mxCell style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1029" y="1320" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-78" value="Бригадир" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="479" y="1400" width="320" height="34" as="geometry" />
+        </mxCell>
+        <UserObject label="2" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-79">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="425" y="1400" width="30" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-80" value="Jikl Mnop" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="810" y="1400" width="210" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Нет" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-81">
+          <mxCell style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#ffd966;" vertex="1" parent="1">
+            <mxGeometry x="1029" y="1400" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
