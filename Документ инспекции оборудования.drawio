@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T09:36:51.496Z" agent="5.0 (Windows)" etag="qdhLMQwa_BxY59mrecr1" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-12T09:48:45.921Z" agent="5.0 (Windows)" etag="fTT1mI8qUdcfhjCByfW4" version="20.2.2" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="1451" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1829" dy="1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,27 +8,27 @@
           <mxGeometry x="-460" y="60" width="2660" height="1140" as="geometry" />
         </mxCell>
         <mxCell id="YETUvm6ZgC-k4a_B2DAo-2" value="Жаксалыков К." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="1" vertex="1">
-          <mxGeometry x="290" y="434" width="250" height="30" as="geometry" />
+          <mxGeometry x="905" y="380" width="250" height="30" as="geometry" />
         </mxCell>
         <UserObject label="Инспекцию произвел" placeholders="1" name="Variable" id="YETUvm6ZgC-k4a_B2DAo-3">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="285" y="404" width="140" height="20" as="geometry" />
+            <mxGeometry x="900" y="350" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Номер" placeholders="1" name="Variable" id="YETUvm6ZgC-k4a_B2DAo-5">
+        <UserObject label="Номер документа" placeholders="1" name="Variable" id="YETUvm6ZgC-k4a_B2DAo-5">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="285" y="249" width="140" height="20" as="geometry" />
+            <mxGeometry x="292" y="179" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="YETUvm6ZgC-k4a_B2DAo-6" value="И-2034" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="1" vertex="1">
-          <mxGeometry x="285" y="269" width="150" height="30" as="geometry" />
+          <mxGeometry x="292" y="199" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YETUvm6ZgC-k4a_B2DAo-7" value="16.06.2022 16:26" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="1" vertex="1">
-          <mxGeometry x="505" y="269" width="250" height="30" as="geometry" />
+          <mxGeometry x="480" y="199" width="250" height="30" as="geometry" />
         </mxCell>
         <UserObject label="Дата документа" placeholders="1" name="Variable" id="YETUvm6ZgC-k4a_B2DAo-8">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="505" y="249" width="140" height="20" as="geometry" />
+            <mxGeometry x="480" y="179" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Заключение" placeholders="1" name="Variable" id="YETUvm6ZgC-k4a_B2DAo-9">
@@ -57,11 +57,11 @@
           <mxGeometry x="1306" y="344" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YETUvm6ZgC-k4a_B2DAo-23" value="Колесная пара V-02-1252" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="1" vertex="1">
-          <mxGeometry x="290" y="495" width="250" height="30" as="geometry" />
+          <mxGeometry x="540" y="324" width="250" height="30" as="geometry" />
         </mxCell>
         <UserObject label="Ед. оборудования" placeholders="1" name="Variable" id="YETUvm6ZgC-k4a_B2DAo-24">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="290" y="475" width="140" height="20" as="geometry" />
+            <mxGeometry x="290" y="324" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="YETUvm6ZgC-k4a_B2DAo-25" value="Диаметр / правая" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="1" vertex="1">
@@ -171,24 +171,11 @@
           <mxGeometry x="290" y="920" width="890" height="10" as="geometry" />
         </mxCell>
         <mxCell id="5jPzE2AC7TKcDfSd6P9n-4" value="И-2034" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
-          <mxGeometry x="285" y="360" width="830" height="30" as="geometry" />
+          <mxGeometry x="292" y="274" width="830" height="30" as="geometry" />
         </mxCell>
         <UserObject label="Описание документа" placeholders="1" name="Variable" id="5jPzE2AC7TKcDfSd6P9n-5">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="285" y="335" width="140" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="5jPzE2AC7TKcDfSd6P9n-6" value="Жаксалыков К." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
-          <mxGeometry x="810" y="279" width="250" height="30" as="geometry" />
-        </mxCell>
-        <UserObject label="Инспекцию произвел" placeholders="1" name="Variable" id="5jPzE2AC7TKcDfSd6P9n-7">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="805" y="249" width="140" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Статус" placeholders="1" name="Variable" id="5jPzE2AC7TKcDfSd6P9n-8">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1" vertex="1" parent="1">
-            <mxGeometry x="645" y="100" width="95" height="20" as="geometry" />
+            <mxGeometry x="292" y="249" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Инспекция оборудования" placeholders="1" name="Variable" id="5jPzE2AC7TKcDfSd6P9n-9">
@@ -201,16 +188,24 @@
             <mxGeometry x="295" y="105" width="95" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="5jPzE2AC7TKcDfSd6P9n-14" value="Исполняется" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
-          <mxGeometry x="645" y="120" width="250" height="30" as="geometry" />
-        </mxCell>
         <UserObject label="Рабочий процесс" placeholders="1" name="Variable" id="5jPzE2AC7TKcDfSd6P9n-15">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1" vertex="1" parent="1">
             <mxGeometry x="480" y="104" width="220" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="5jPzE2AC7TKcDfSd6P9n-16" value="Стандартная инспекция" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+        <mxCell id="5jPzE2AC7TKcDfSd6P9n-16" value="Стандартная инспекция" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#82b366;fillColor=#d5e8d4;align=left;fillColor2=#aaddff;mainText=;fontSize=17;spacingLeft=3;labelBackgroundColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="480" y="125" width="250" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Текущий статус" placeholders="1" name="Variable" id="5jPzE2AC7TKcDfSd6P9n-17">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="800" y="104" width="220" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5jPzE2AC7TKcDfSd6P9n-18" value="В работе" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#82b366;fillColor=#d5e8d4;align=left;fillColor2=#aaddff;mainText=;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="800" y="125" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5jPzE2AC7TKcDfSd6P9n-19" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;labelBackgroundColor=#CCCCCC;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="292" y="159" width="870" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
