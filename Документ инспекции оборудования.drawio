@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T09:33:40.439Z" agent="5.0 (Windows)" etag="8bGDJmS6YamzpiqHrlFT" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-12T09:36:22.085Z" agent="5.0 (Windows)" etag="ljGQWOf5XDlNEmetq9ch" version="20.2.2" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="1669" dy="301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1705" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,7 +124,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YETUvm6ZgC-k4a_B2DAo-48" value="Сформировать запрос на ремонт" style="strokeWidth=3;shadow=1;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;mainText=;buttonStyle=round;fontSize=14;fontStyle=1;whiteSpace=wrap;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="850" y="95" width="150" height="35" as="geometry" />
+          <mxGeometry x="1100" y="-40" width="150" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Z_BnlZCCOBM-jQ7rvPCf-1" value="Сохранить" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1835" y="204" width="150" height="50" as="geometry" />
@@ -136,7 +136,7 @@
           <mxGeometry x="660" y="1110" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Z_BnlZCCOBM-jQ7rvPCf-6" value="Пока не реализовывать" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;strokeWidth=3;shadow=1;dashed=0;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1095" y="82.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1306" y="-52.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z_BnlZCCOBM-jQ7rvPCf-8" value="Ссылка на таблицу&lt;br&gt;infrastructure.ReadingTypes" style="whiteSpace=wrap;html=1;fontSize=17;align=left;fillColor=#ddeeff;strokeColor=#999999;fontColor=#666666;strokeWidth=1;shadow=0;dashed=0;spacingLeft=3;" parent="1" vertex="1">
           <mxGeometry x="1360" y="155" width="230" height="60" as="geometry" />
@@ -188,12 +188,12 @@
         </UserObject>
         <UserObject label="Статус" placeholders="1" name="Variable" id="5jPzE2AC7TKcDfSd6P9n-8">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1" vertex="1" parent="1">
-            <mxGeometry x="505" y="100" width="95" height="20" as="geometry" />
+            <mxGeometry x="645" y="100" width="95" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Инспекция оборудования" placeholders="1" name="Variable" id="5jPzE2AC7TKcDfSd6P9n-9">
           <mxCell style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="295" y="125" width="150" height="20" as="geometry" />
+            <mxGeometry x="295" y="125" width="150" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Тип документа" placeholders="1" name="Variable" id="5jPzE2AC7TKcDfSd6P9n-13">
@@ -202,7 +202,15 @@
           </mxCell>
         </UserObject>
         <mxCell id="5jPzE2AC7TKcDfSd6P9n-14" value="Исполняется" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
-          <mxGeometry x="505" y="120" width="250" height="30" as="geometry" />
+          <mxGeometry x="645" y="120" width="250" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Статус" placeholders="1" name="Variable" id="5jPzE2AC7TKcDfSd6P9n-15">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="480" y="104" width="95" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5jPzE2AC7TKcDfSd6P9n-16" value="Исполняется" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="480" y="125" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
