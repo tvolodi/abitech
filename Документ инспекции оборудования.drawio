@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T11:36:52.397Z" agent="5.0 (Windows)" etag="TGmAVdQqIaJbECXLrtQA" version="20.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-12T11:41:06.049Z" agent="5.0 (Windows)" etag="81CKS9berGDsoc7dPaMi" version="20.2.2" type="github" pages="2">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="2454" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -72,10 +72,10 @@
           <mxGeometry x="1750" y="204" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Z_BnlZCCOBM-jQ7rvPCf-2" value="Закрыть" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="850" y="1110" width="150" height="50" as="geometry" />
+          <mxGeometry x="1030" y="1110" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Z_BnlZCCOBM-jQ7rvPCf-4" value="Сохранить и закрыть" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="660" y="1110" width="150" height="50" as="geometry" />
+          <mxGeometry x="860" y="1110" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Z_BnlZCCOBM-jQ7rvPCf-6" value="Пока не реализовывать" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;strokeWidth=3;shadow=1;dashed=0;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1306" y="-52.5" width="120" height="60" as="geometry" />
@@ -135,7 +135,7 @@
             <mxGeometry x="480" y="104" width="220" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="5jPzE2AC7TKcDfSd6P9n-16" value="Стандартная инспекция" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#82b366;fillColor=#d5e8d4;align=left;fillColor2=#aaddff;mainText=;fontSize=17;spacingLeft=3;labelBackgroundColor=#CCCCCC;" parent="1" vertex="1">
+        <mxCell id="5jPzE2AC7TKcDfSd6P9n-16" value="Стандартная инспекция" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;align=left;fillColor2=#aaddff;mainText=;fontSize=17;spacingLeft=3;labelBackgroundColor=#CCCCCC;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="480" y="125" width="250" height="30" as="geometry" />
         </mxCell>
         <UserObject label="Текущий статус" placeholders="1" name="Variable" id="5jPzE2AC7TKcDfSd6P9n-17">
@@ -143,7 +143,7 @@
             <mxGeometry x="800" y="104" width="220" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="5jPzE2AC7TKcDfSd6P9n-18" value="В работе" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#82b366;fillColor=#d5e8d4;align=left;fillColor2=#aaddff;mainText=;fontSize=17;spacingLeft=3;" parent="1" vertex="1">
+        <mxCell id="5jPzE2AC7TKcDfSd6P9n-18" value="В работе" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;align=left;fillColor2=#aaddff;mainText=;fontSize=17;spacingLeft=3;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="800" y="125" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5jPzE2AC7TKcDfSd6P9n-19" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;labelBackgroundColor=#CCCCCC;fontSize=18;" parent="1" vertex="1">
@@ -407,7 +407,7 @@
         <mxCell id="8yjtcqBFSqYt93M6oK_Y-59" value="Измерения" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#000000;align=left;spacingLeft=5;strokeColor=#666666;fillColor=#66FFB3;" vertex="1" parent="1">
           <mxGeometry x="290" y="334" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8yjtcqBFSqYt93M6oK_Y-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="8yjtcqBFSqYt93M6oK_Y-60" target="8yjtcqBFSqYt93M6oK_Y-84">
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=2;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#3333FF;" edge="1" parent="1" source="8yjtcqBFSqYt93M6oK_Y-60" target="8yjtcqBFSqYt93M6oK_Y-84">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="350" />
