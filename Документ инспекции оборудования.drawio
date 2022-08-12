@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T10:53:37.737Z" agent="5.0 (Windows)" etag="1igy2CVj159GcvVo6zNR" version="20.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-12T11:04:48.748Z" agent="5.0 (Windows)" etag="Z0RWfcbGwA7I6cU7i1nW" version="20.2.2" type="github" pages="2">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="2285" dy="1477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3944" dy="2354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,11 +45,6 @@
         <mxCell id="YETUvm6ZgC-k4a_B2DAo-21" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;Завышение (+) или занижение (-) фрикционного &lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;клина / правый&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" parent="1" vertex="1">
           <mxGeometry x="1270" y="370" width="320" height="50" as="geometry" />
         </mxCell>
-        <UserObject label="Ед. оборудования" placeholders="1" name="Variable" id="YETUvm6ZgC-k4a_B2DAo-24">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="290" y="324" width="140" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="YETUvm6ZgC-k4a_B2DAo-25" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;Суммарный продольный зазор между &lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;направляющими боковой рамы тележки и &lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;корпусом буксы /левый&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" parent="1" vertex="1">
           <mxGeometry x="1270" y="430" width="320" height="60" as="geometry" />
         </mxCell>
@@ -323,7 +318,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="8yjtcqBFSqYt93M6oK_Y-46" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="620" y="350" width="460" height="390" as="geometry" />
+          <mxGeometry x="292" y="350" width="460" height="510" as="geometry" />
         </mxCell>
         <mxCell id="8yjtcqBFSqYt93M6oK_Y-47" value="Оборудование" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="8yjtcqBFSqYt93M6oK_Y-46">
           <mxGeometry x="5" width="140" height="30" as="geometry" />
@@ -373,6 +368,42 @@
         <mxCell id="jaOsvdT_Qn9ZSt324EDw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="8yjtcqBFSqYt93M6oK_Y-46" source="jaOsvdT_Qn9ZSt324EDw-1" target="jaOsvdT_Qn9ZSt324EDw-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-53" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;fontSize=12;fontColor=#003300;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="770" y="350" width="410" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-54" value="Характеристики" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="8yjtcqBFSqYt93M6oK_Y-53">
+          <mxGeometry x="5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="№ п/п" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-51">
+          <mxCell style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="8yjtcqBFSqYt93M6oK_Y-53">
+            <mxGeometry x="5" y="50" width="44" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Характеристика" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-52">
+          <mxCell style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="8yjtcqBFSqYt93M6oK_Y-53">
+            <mxGeometry x="59" y="50" width="211" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="1" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-55">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="8yjtcqBFSqYt93M6oK_Y-53">
+            <mxGeometry x="12" y="100" width="30" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Последний выполненный ремонт" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-56">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="8yjtcqBFSqYt93M6oK_Y-53">
+            <mxGeometry x="59" y="100" width="211" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Значение" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-57">
+          <mxCell style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="8yjtcqBFSqYt93M6oK_Y-53">
+            <mxGeometry x="280" y="50" width="100.5" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ремонт" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-58">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="8yjtcqBFSqYt93M6oK_Y-53">
+            <mxGeometry x="280" y="100" width="90" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
