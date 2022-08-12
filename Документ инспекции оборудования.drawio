@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T11:33:14.599Z" agent="5.0 (Windows)" etag="K8G3OVw8CJ-lX97tGrTF" version="20.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-12T11:34:04.533Z" agent="5.0 (Windows)" etag="SAj2ozo6Jzmdwgzuoqrh" version="20.2.2" type="github" pages="2">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="2454" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -462,7 +462,7 @@
             <mxGeometry x="425" y="1400" width="30" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="8yjtcqBFSqYt93M6oK_Y-80" value="Jikl Mnop" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-80" value="Ijkl Mnop" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
           <mxGeometry x="810" y="1400" width="210" height="30" as="geometry" />
         </mxCell>
         <UserObject label="Нет" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-81">
