@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T11:04:48.748Z" agent="5.0 (Windows)" etag="Z0RWfcbGwA7I6cU7i1nW" version="20.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-12T11:23:56.902Z" agent="5.0 (Windows)" etag="sMb1ciuoth3kqEe6jMpP" version="20.2.2" type="github" pages="2">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="3944" dy="2354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2454" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -318,7 +318,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="8yjtcqBFSqYt93M6oK_Y-46" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="292" y="350" width="460" height="510" as="geometry" />
+          <mxGeometry x="290" y="375" width="460" height="510" as="geometry" />
         </mxCell>
         <mxCell id="8yjtcqBFSqYt93M6oK_Y-47" value="Оборудование" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="8yjtcqBFSqYt93M6oK_Y-46">
           <mxGeometry x="5" width="140" height="30" as="geometry" />
@@ -369,7 +369,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8yjtcqBFSqYt93M6oK_Y-53" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;fontSize=12;fontColor=#003300;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="770" y="350" width="410" height="510" as="geometry" />
+          <mxGeometry x="760" y="375" width="410" height="510" as="geometry" />
         </mxCell>
         <mxCell id="8yjtcqBFSqYt93M6oK_Y-54" value="Характеристики" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="8yjtcqBFSqYt93M6oK_Y-53">
           <mxGeometry x="5" width="150" height="30" as="geometry" />
@@ -404,6 +404,20 @@
             <mxGeometry x="280" y="100" width="90" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-59" value="Измерения" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#000000;align=left;spacingLeft=5;strokeColor=#666666;fillColor=#66FFB3;" vertex="1" parent="1">
+          <mxGeometry x="290" y="334" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-60" value="Подписи" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#000000;align=left;spacingLeft=5;strokeColor=#008cff;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="335" width="85" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Проверку провел" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-66">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1230" y="885" width="140" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-67" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="1230" y="905" width="380" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
