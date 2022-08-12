@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T11:41:06.049Z" agent="5.0 (Windows)" etag="81CKS9berGDsoc7dPaMi" version="20.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-12T11:52:48.302Z" agent="5.0 (Windows)" etag="WMO5JSkRP1RibBW7H7Ui" version="20.2.2" type="github" pages="2">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="2454" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -368,7 +368,7 @@
         <mxCell id="jaOsvdT_Qn9ZSt324EDw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="8yjtcqBFSqYt93M6oK_Y-46" source="jaOsvdT_Qn9ZSt324EDw-1" target="jaOsvdT_Qn9ZSt324EDw-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8yjtcqBFSqYt93M6oK_Y-53" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;fontSize=12;fontColor=#003300;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-53" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#36393d;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;fontSize=12;fillColor=#ffff88;" vertex="1" parent="1">
           <mxGeometry x="760" y="375" width="410" height="510" as="geometry" />
         </mxCell>
         <mxCell id="8yjtcqBFSqYt93M6oK_Y-54" value="Характеристики" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="8yjtcqBFSqYt93M6oK_Y-53">
@@ -425,7 +425,7 @@
         <mxCell id="8yjtcqBFSqYt93M6oK_Y-67" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1">
           <mxGeometry x="1230" y="905" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8yjtcqBFSqYt93M6oK_Y-84" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;fontSize=12;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-84" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#36393d;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;fontSize=12;fillColor=#ffff88;" vertex="1" parent="1">
           <mxGeometry x="380" y="1275" width="760" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8yjtcqBFSqYt93M6oK_Y-85" value="Подписи" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="8yjtcqBFSqYt93M6oK_Y-84">
