@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T10:36:02.449Z" agent="5.0 (Windows)" etag="7lz804eCgR06sGhOdpi2" version="20.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-12T10:39:10.850Z" agent="5.0 (Windows)" etag="9XNMt_2_vRrIkWx79kMO" version="20.2.2" type="github" pages="2">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="2081" dy="1369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2773" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,6 +265,30 @@
             <mxGeometry x="1230" y="770" width="30" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-15" value="мм" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="304" width="90" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-16" value="мм" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="370" width="90" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-17" value="мм" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="430" width="90" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-18" value="мм" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="500" width="90" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-19" value="мм" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="568.25" width="90" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-20" value="мм" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="640" width="90" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-21" value="мм" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="710" width="90" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-22" value="мм" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="760" width="90" height="33.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
