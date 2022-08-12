@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T10:47:41.638Z" agent="5.0 (Windows)" etag="e9AKQdBSbs669pX0aoyO" version="20.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-12T10:50:26.427Z" agent="5.0 (Windows)" etag="LGKThkcrBZD7ee9tTgMG" version="20.2.2" type="github" pages="2">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="2081" dy="1369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2194" dy="1428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,7 +195,7 @@
         <mxCell id="jaOsvdT_Qn9ZSt324EDw-3" value="Соединительная балка" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="342" y="640" width="138" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jaOsvdT_Qn9ZSt324EDw-4" value="Левая боковая рама" style="html=1;" vertex="1" parent="1">
+        <mxCell id="jaOsvdT_Qn9ZSt324EDw-4" value="Левая боковая рама" style="html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="400" y="562" width="138" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jaOsvdT_Qn9ZSt324EDw-5" value="Правая боковая рама" style="html=1;" vertex="1" parent="1">
@@ -351,6 +351,31 @@
         <UserObject label="0" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-39">
           <mxCell style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" vertex="1" parent="1">
             <mxGeometry x="1820" y="760" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="№ п/п" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-40">
+          <mxCell style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1216" y="269" width="44" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Показатель" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-42">
+          <mxCell style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1270" y="269" width="320" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ед.измерения" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-43">
+          <mxCell style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1610" y="269" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Величина" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-44">
+          <mxCell style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1720" y="269" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Норма" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-45">
+          <mxCell style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1820" y="269" width="80" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
