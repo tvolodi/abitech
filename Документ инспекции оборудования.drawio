@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T05:37:26.979Z" agent="5.0 (Windows)" etag="Lxet7zmQIbFd1eUnum4K" version="20.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-16T06:59:12.262Z" agent="5.0 (Windows)" etag="HED2I09kQi1IlCsR26ID" version="20.2.2" type="github" pages="2">
   <diagram name="Документ инспекции" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="2522" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -568,6 +568,26 @@
             <mxGeometry x="1230" y="885" width="140" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="" link="https://1.bp.blogspot.com/-BaY6sfQBnxI/VsnJTrTQrGI/AAAAAAAACv0/NYM6GKW56YU/s1600/%25D0%25B7%25D0%25B0%25D0%25B3%25D1%2580%25D1%2583%25D0%25B6%25D0%25B5%25D0%25BD%25D0%25BD%25D0%25BE%25D0%25B5.png" id="rbq5VFDCJuqfMufn9LXK-3">
+          <mxCell style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;" vertex="1" parent="1">
+            <mxGeometry x="1230" y="950" width="880" height="240" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="rbq5VFDCJuqfMufn9LXK-4" value="Фото" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="rbq5VFDCJuqfMufn9LXK-3">
+          <mxGeometry x="5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rbq5VFDCJuqfMufn9LXK-8" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://1.bp.blogspot.com/-BaY6sfQBnxI/VsnJTrTQrGI/AAAAAAAACv0/NYM6GKW56YU/s1600/%25D0%25B7%25D0%25B0%25D0%25B3%25D1%2580%25D1%2583%25D0%25B6%25D0%25B5%25D0%25BD%25D0%25BD%25D0%25BE%25D0%25B5.png;" vertex="1" parent="rbq5VFDCJuqfMufn9LXK-3">
+          <mxGeometry x="80" y="25" width="243.75" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="rbq5VFDCJuqfMufn9LXK-9" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://1.bp.blogspot.com/-ngvqc3M54i4/VsnLrKWsHDI/AAAAAAAACv8/jEvMBUpxbMQ/s1600/%25D0%25A1%25D0%25BD%25D0%25B8%25D0%25BC%25D0%25BE%25D0%25BA1.PNG;" vertex="1" parent="rbq5VFDCJuqfMufn9LXK-3">
+          <mxGeometry x="350" y="25" width="258.22" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="rbq5VFDCJuqfMufn9LXK-10" value="Добавить" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="900" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rbq5VFDCJuqfMufn9LXK-11" value="Удалить" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="900" width="150" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
