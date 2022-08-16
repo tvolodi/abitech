@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-15T08:46:38.331Z" agent="5.0 (Windows)" etag="B0y-VNFI9Q-yvKctOjtp" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-16T04:27:34.961Z" agent="5.0 (Windows)" etag="3TrxtAHy7Lo1pTpWZWJN" version="20.2.2" type="github" pages="2">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="3178" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2522" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,19 +228,19 @@
         <mxCell id="8yjtcqBFSqYt93M6oK_Y-22" value="мм" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" parent="1" vertex="1">
           <mxGeometry x="1610" y="760" width="90" height="33.5" as="geometry" />
         </mxCell>
-        <mxCell id="8yjtcqBFSqYt93M6oK_Y-23" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="1" vertex="1">
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-23" value="123" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#82b366;mainText=;fillColor=#d5e8d4;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="1720" y="304" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8yjtcqBFSqYt93M6oK_Y-24" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="1" vertex="1">
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-24" value="122" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#b85450;mainText=;fillColor=#f8cecc;gradientColor=#ea6b66;" parent="1" vertex="1">
           <mxGeometry x="1720" y="370" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8yjtcqBFSqYt93M6oK_Y-25" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="1" vertex="1">
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-25" value="123" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#82b366;mainText=;fillColor=#d5e8d4;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="1720" y="430" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8yjtcqBFSqYt93M6oK_Y-26" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="1" vertex="1">
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-26" value="123" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#b85450;mainText=;fillColor=#f8cecc;gradientColor=#ea6b66;" parent="1" vertex="1">
           <mxGeometry x="1720" y="500" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8yjtcqBFSqYt93M6oK_Y-27" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="1" vertex="1">
+        <mxCell id="8yjtcqBFSqYt93M6oK_Y-27" value="123" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="1" vertex="1">
           <mxGeometry x="1720" y="568.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8yjtcqBFSqYt93M6oK_Y-28" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="1" vertex="1">
@@ -252,44 +252,44 @@
         <mxCell id="8yjtcqBFSqYt93M6oK_Y-30" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" parent="1" vertex="1">
           <mxGeometry x="1720" y="760" width="80" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="0" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-32">
+        <UserObject label="123" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-32">
           <mxCell style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" parent="1" vertex="1">
-            <mxGeometry x="1820" y="305" width="80" height="30" as="geometry" />
+            <mxGeometry x="1905" y="306.5" width="80" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="0" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-33">
+        <UserObject label="123" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-33">
           <mxCell style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" parent="1" vertex="1">
-            <mxGeometry x="1820" y="370" width="80" height="30" as="geometry" />
+            <mxGeometry x="1905" y="371.5" width="80" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="0" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-34">
+        <UserObject label="100" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-34">
           <mxCell style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" parent="1" vertex="1">
-            <mxGeometry x="1820" y="430" width="80" height="30" as="geometry" />
+            <mxGeometry x="1905" y="431.5" width="80" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="0" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-35">
+        <UserObject label="100" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-35">
           <mxCell style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" parent="1" vertex="1">
-            <mxGeometry x="1820" y="500" width="80" height="30" as="geometry" />
+            <mxGeometry x="1905" y="501.5" width="80" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="0" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-36">
+        <UserObject label="100" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-36">
           <mxCell style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" parent="1" vertex="1">
-            <mxGeometry x="1820" y="568.25" width="80" height="30" as="geometry" />
+            <mxGeometry x="1905" y="569.75" width="80" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="0" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-37">
           <mxCell style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" parent="1" vertex="1">
-            <mxGeometry x="1820" y="640" width="80" height="30" as="geometry" />
+            <mxGeometry x="1905" y="641.5" width="80" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="0" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-38">
           <mxCell style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" parent="1" vertex="1">
-            <mxGeometry x="1820" y="710" width="80" height="30" as="geometry" />
+            <mxGeometry x="1905" y="711.5" width="80" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="0" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-39">
           <mxCell style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" parent="1" vertex="1">
-            <mxGeometry x="1820" y="760" width="80" height="30" as="geometry" />
+            <mxGeometry x="1905" y="761.5" width="80" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="№ п/п" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-40">
@@ -312,9 +312,9 @@
             <mxGeometry x="1720" y="269" width="80" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Норма" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-45">
+        <UserObject label="Норма мин" placeholders="1" name="Variable" id="8yjtcqBFSqYt93M6oK_Y-45">
           <mxCell style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="1820" y="269" width="80" height="30" as="geometry" />
+            <mxGeometry x="1905" y="270.5" width="80" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="8yjtcqBFSqYt93M6oK_Y-46" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;fontSize=12;" parent="1" vertex="1">
@@ -483,11 +483,74 @@
         <mxCell id="8yjtcqBFSqYt93M6oK_Y-83" value="Ijkl Mnop" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" parent="8yjtcqBFSqYt93M6oK_Y-84" vertex="1">
           <mxGeometry x="421.5" y="130" width="210" height="34" as="geometry" />
         </mxCell>
-        <UserObject label="Норма" placeholders="1" name="Variable" id="YI91nUEzlamcuq8S2QyS-1">
-          <mxCell style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="1940" y="269" width="80" height="30" as="geometry" />
+        <UserObject label="Норма макс" placeholders="1" name="Variable" id="YI91nUEzlamcuq8S2QyS-1">
+          <mxCell style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+            <mxGeometry x="2025" y="270.5" width="80" height="30" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="MI3Mp1opwpk6zmpXi5Fe-1" value="Может быть boolean: да/нет" style="whiteSpace=wrap;html=1;fontSize=17;align=left;fillColor=#ddeeff;strokeColor=#999999;fontColor=#666666;strokeWidth=1;shadow=0;dashed=0;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="-40" width="230" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="0" placeholders="1" name="Variable" id="MI3Mp1opwpk6zmpXi5Fe-2">
+          <mxCell style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#b3b3b3;" vertex="1" parent="1">
+            <mxGeometry x="2025" y="306.5" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="0" placeholders="1" name="Variable" id="MI3Mp1opwpk6zmpXi5Fe-3">
+          <mxCell style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#b3b3b3;" vertex="1" parent="1">
+            <mxGeometry x="2025" y="371.5" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="150" placeholders="1" name="Variable" id="MI3Mp1opwpk6zmpXi5Fe-4">
+          <mxCell style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" vertex="1" parent="1">
+            <mxGeometry x="2025" y="431.5" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="150" placeholders="1" name="Variable" id="MI3Mp1opwpk6zmpXi5Fe-5">
+          <mxCell style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" vertex="1" parent="1">
+            <mxGeometry x="2025" y="501.5" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="0" placeholders="1" name="Variable" id="MI3Mp1opwpk6zmpXi5Fe-6">
+          <mxCell style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" vertex="1" parent="1">
+            <mxGeometry x="2025" y="569.75" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="0" placeholders="1" name="Variable" id="MI3Mp1opwpk6zmpXi5Fe-7">
+          <mxCell style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" vertex="1" parent="1">
+            <mxGeometry x="2025" y="641.5" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="0" placeholders="1" name="Variable" id="MI3Mp1opwpk6zmpXi5Fe-8">
+          <mxCell style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" vertex="1" parent="1">
+            <mxGeometry x="2025" y="711.5" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="0" placeholders="1" name="Variable" id="MI3Mp1opwpk6zmpXi5Fe-9">
+          <mxCell style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;gradientColor=#97d077;" vertex="1" parent="1">
+            <mxGeometry x="2025" y="761.5" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Отношение" placeholders="1" name="Variable" id="MI3Mp1opwpk6zmpXi5Fe-11">
+          <mxCell style="text;html=1;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1815" y="269" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="MI3Mp1opwpk6zmpXi5Fe-12" value="=" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="1816" y="304" width="79" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MI3Mp1opwpk6zmpXi5Fe-13" value="=" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="1816" y="370" width="79" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MI3Mp1opwpk6zmpXi5Fe-14" value="между" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="1816" y="428" width="79" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MI3Mp1opwpk6zmpXi5Fe-15" value="вне" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="1816" y="498.5" width="79" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MI3Mp1opwpk6zmpXi5Fe-16" value="&amp;gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="1816" y="568.25" width="79" height="33.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
